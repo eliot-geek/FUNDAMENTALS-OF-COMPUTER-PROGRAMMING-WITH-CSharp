@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\bin\Debug\net6.0\Ex_10_PrintFirstNum.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\bin\Debug\net6.0\Ex_10_PrintFirstNum.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\bin\Debug\net6.0\Ex_10_PrintFirstNum.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\bin\Debug\net6.0\Ex_10_PrintFirstNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\bin\Debug\net6.0\Ex_10_PrintFirstNum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\obj\Debug\net6.0\Ex_10_PrintFirstNum.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\obj\Debug\net6.0\Ex_10_PrintFirstNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\obj\Debug\net6.0\Ex_10_PrintFirstNum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\obj\Debug\net6.0\Ex_10_PrintFirstNum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\obj\Debug\net6.0\Ex_10_PrintFirstNum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\obj\Debug\net6.0\Ex_10_PrintFirstNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\obj\Debug\net6.0\refint\Ex_10_PrintFirstNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\obj\Debug\net6.0\Ex_10_PrintFirstNum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\obj\Debug\net6.0\Ex_10_PrintFirstNum.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_PrintFirstNum\obj\Debug\net6.0\ref\Ex_10_PrintFirstNum.dll
