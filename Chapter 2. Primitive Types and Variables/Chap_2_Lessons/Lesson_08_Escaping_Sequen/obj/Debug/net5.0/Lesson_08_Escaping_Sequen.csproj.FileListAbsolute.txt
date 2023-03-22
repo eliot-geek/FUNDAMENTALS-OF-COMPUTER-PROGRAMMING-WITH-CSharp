@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\bin\Debug\net5.0\Lesson_08_Escaping_Sequen.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\bin\Debug\net5.0\Lesson_08_Escaping_Sequen.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\bin\Debug\net5.0\Lesson_08_Escaping_Sequen.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\bin\Debug\net5.0\Lesson_08_Escaping_Sequen.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\bin\Debug\net5.0\Lesson_08_Escaping_Sequen.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\bin\Debug\net5.0\Lesson_08_Escaping_Sequen.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\obj\Debug\net5.0\Lesson_08_Escaping_Sequen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\obj\Debug\net5.0\Lesson_08_Escaping_Sequen.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\obj\Debug\net5.0\Lesson_08_Escaping_Sequen.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\obj\Debug\net5.0\Lesson_08_Escaping_Sequen.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\obj\Debug\net5.0\Lesson_08_Escaping_Sequen.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\obj\Debug\net5.0\ref\Lesson_08_Escaping_Sequen.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\obj\Debug\net5.0\Lesson_08_Escaping_Sequen.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\obj\Debug\net5.0\Lesson_08_Escaping_Sequen.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\obj\Debug\net5.0\Lesson_08_Escaping_Sequen.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_08_Escaping_Sequen\obj\Debug\net5.0\refint\Lesson_08_Escaping_Sequen.dll
