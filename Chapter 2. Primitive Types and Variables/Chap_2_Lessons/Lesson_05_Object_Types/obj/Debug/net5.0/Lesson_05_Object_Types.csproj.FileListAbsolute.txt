@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\bin\Debug\net5.0\Lesson_05_Object_Types.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\bin\Debug\net5.0\Lesson_05_Object_Types.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\bin\Debug\net5.0\Lesson_05_Object_Types.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\bin\Debug\net5.0\Lesson_05_Object_Types.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\bin\Debug\net5.0\Lesson_05_Object_Types.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\bin\Debug\net5.0\Lesson_05_Object_Types.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\obj\Debug\net5.0\Lesson_05_Object_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\obj\Debug\net5.0\Lesson_05_Object_Types.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\obj\Debug\net5.0\Lesson_05_Object_Types.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\obj\Debug\net5.0\Lesson_05_Object_Types.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\obj\Debug\net5.0\Lesson_05_Object_Types.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\obj\Debug\net5.0\ref\Lesson_05_Object_Types.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\obj\Debug\net5.0\Lesson_05_Object_Types.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\obj\Debug\net5.0\Lesson_05_Object_Types.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\obj\Debug\net5.0\Lesson_05_Object_Types.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_05_Object_Types\obj\Debug\net5.0\refint\Lesson_05_Object_Types.dll

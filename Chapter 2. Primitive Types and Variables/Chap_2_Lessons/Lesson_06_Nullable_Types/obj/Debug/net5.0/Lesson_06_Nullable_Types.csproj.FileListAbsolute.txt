@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\bin\Debug\net5.0\Lesson_06_Nullable_Types.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\bin\Debug\net5.0\Lesson_06_Nullable_Types.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\bin\Debug\net5.0\Lesson_06_Nullable_Types.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\bin\Debug\net5.0\Lesson_06_Nullable_Types.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\bin\Debug\net5.0\Lesson_06_Nullable_Types.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\bin\Debug\net5.0\Lesson_06_Nullable_Types.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\obj\Debug\net5.0\Lesson_06_Nullable_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\obj\Debug\net5.0\Lesson_06_Nullable_Types.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\obj\Debug\net5.0\Lesson_06_Nullable_Types.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\obj\Debug\net5.0\Lesson_06_Nullable_Types.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\obj\Debug\net5.0\Lesson_06_Nullable_Types.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\obj\Debug\net5.0\ref\Lesson_06_Nullable_Types.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\obj\Debug\net5.0\Lesson_06_Nullable_Types.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\obj\Debug\net5.0\Lesson_06_Nullable_Types.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\obj\Debug\net5.0\Lesson_06_Nullable_Types.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_06_Nullable_Types\obj\Debug\net5.0\refint\Lesson_06_Nullable_Types.dll
