@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lesson_01_Real_Floating/1.0.0": {
+        "runtime": {
+          "Lesson_01_Real_Floating.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_01_Real_Floating/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

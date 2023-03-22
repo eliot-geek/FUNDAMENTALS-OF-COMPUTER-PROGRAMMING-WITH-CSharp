@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\bin\Debug\net5.0\Lesson_02_Boolean_Types.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\bin\Debug\net5.0\Lesson_02_Boolean_Types.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\bin\Debug\net5.0\Lesson_02_Boolean_Types.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\bin\Debug\net5.0\Lesson_02_Boolean_Types.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\bin\Debug\net5.0\Lesson_02_Boolean_Types.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\bin\Debug\net5.0\Lesson_02_Boolean_Types.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\obj\Debug\net5.0\Lesson_02_Boolean_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\obj\Debug\net5.0\Lesson_02_Boolean_Types.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\obj\Debug\net5.0\Lesson_02_Boolean_Types.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\obj\Debug\net5.0\Lesson_02_Boolean_Types.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\obj\Debug\net5.0\Lesson_02_Boolean_Types.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\obj\Debug\net5.0\ref\Lesson_02_Boolean_Types.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\obj\Debug\net5.0\Lesson_02_Boolean_Types.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\obj\Debug\net5.0\Lesson_02_Boolean_Types.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\obj\Debug\net5.0\Lesson_02_Boolean_Types.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Boolean_Types\obj\Debug\net5.0\refint\Lesson_02_Boolean_Types.dll
