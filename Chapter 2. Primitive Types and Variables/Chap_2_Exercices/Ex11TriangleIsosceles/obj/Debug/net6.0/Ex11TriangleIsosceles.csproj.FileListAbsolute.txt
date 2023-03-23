@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\bin\Debug\net6.0\Ex11TriangleIsosceles.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\bin\Debug\net6.0\Ex11TriangleIsosceles.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\bin\Debug\net6.0\Ex11TriangleIsosceles.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\bin\Debug\net6.0\Ex11TriangleIsosceles.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\bin\Debug\net6.0\Ex11TriangleIsosceles.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\obj\Debug\net6.0\Ex11TriangleIsosceles.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\obj\Debug\net6.0\Ex11TriangleIsosceles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\obj\Debug\net6.0\Ex11TriangleIsosceles.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\obj\Debug\net6.0\Ex11TriangleIsosceles.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\obj\Debug\net6.0\Ex11TriangleIsosceles.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\obj\Debug\net6.0\Ex11TriangleIsosceles.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\obj\Debug\net6.0\refint\Ex11TriangleIsosceles.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\obj\Debug\net6.0\Ex11TriangleIsosceles.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\obj\Debug\net6.0\Ex11TriangleIsosceles.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11TriangleIsosceles\obj\Debug\net6.0\ref\Ex11TriangleIsosceles.dll

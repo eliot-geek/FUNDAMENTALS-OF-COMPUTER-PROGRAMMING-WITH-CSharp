@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\bin\Debug\net6.0\Ex10ShapeOfHeart.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\bin\Debug\net6.0\Ex10ShapeOfHeart.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\bin\Debug\net6.0\Ex10ShapeOfHeart.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\bin\Debug\net6.0\Ex10ShapeOfHeart.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\bin\Debug\net6.0\Ex10ShapeOfHeart.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\obj\Debug\net6.0\Ex10ShapeOfHeart.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\obj\Debug\net6.0\Ex10ShapeOfHeart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\obj\Debug\net6.0\Ex10ShapeOfHeart.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\obj\Debug\net6.0\Ex10ShapeOfHeart.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\obj\Debug\net6.0\Ex10ShapeOfHeart.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\obj\Debug\net6.0\Ex10ShapeOfHeart.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\obj\Debug\net6.0\refint\Ex10ShapeOfHeart.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\obj\Debug\net6.0\Ex10ShapeOfHeart.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\obj\Debug\net6.0\Ex10ShapeOfHeart.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10ShapeOfHeart\obj\Debug\net6.0\ref\Ex10ShapeOfHeart.dll
