@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\bin\Debug\net5.0\Lesson_02_Assignment_Oper.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\bin\Debug\net5.0\Lesson_02_Assignment_Oper.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\bin\Debug\net5.0\Lesson_02_Assignment_Oper.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\bin\Debug\net5.0\Lesson_02_Assignment_Oper.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\bin\Debug\net5.0\Lesson_02_Assignment_Oper.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\bin\Debug\net5.0\Lesson_02_Assignment_Oper.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\obj\Debug\net5.0\Lesson_02_Assignment_Oper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\obj\Debug\net5.0\Lesson_02_Assignment_Oper.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\obj\Debug\net5.0\Lesson_02_Assignment_Oper.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\obj\Debug\net5.0\Lesson_02_Assignment_Oper.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\obj\Debug\net5.0\Lesson_02_Assignment_Oper.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\obj\Debug\net5.0\ref\Lesson_02_Assignment_Oper.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\obj\Debug\net5.0\Lesson_02_Assignment_Oper.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\obj\Debug\net5.0\Lesson_02_Assignment_Oper.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\obj\Debug\net5.0\Lesson_02_Assignment_Oper.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Lesson_02_Assignment_Oper\obj\Debug\net5.0\refint\Lesson_02_Assignment_Oper.dll

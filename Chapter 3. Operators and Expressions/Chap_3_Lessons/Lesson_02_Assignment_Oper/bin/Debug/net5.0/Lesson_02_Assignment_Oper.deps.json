@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lesson_02_Assignment_Oper/1.0.0": {
+        "runtime": {
+          "Lesson_02_Assignment_Oper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_02_Assignment_Oper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
