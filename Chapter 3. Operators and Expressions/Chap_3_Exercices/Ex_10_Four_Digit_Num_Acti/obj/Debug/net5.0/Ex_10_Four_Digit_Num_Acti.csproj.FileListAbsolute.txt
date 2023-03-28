@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\bin\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\bin\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\bin\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\bin\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\bin\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\bin\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\obj\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\obj\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\obj\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\obj\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\obj\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\obj\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\obj\Debug\net5.0\ref\Ex_10_Four_Digit_Num_Acti.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\obj\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\obj\Debug\net5.0\Ex_10_Four_Digit_Num_Acti.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_10_Four_Digit_Num_Acti\obj\Debug\net5.0\refint\Ex_10_Four_Digit_Num_Acti.dll

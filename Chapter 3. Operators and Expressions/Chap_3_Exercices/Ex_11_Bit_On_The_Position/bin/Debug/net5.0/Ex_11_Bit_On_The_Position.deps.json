@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex_11_Bit_On_The_Position/1.0.0": {
+        "runtime": {
+          "Ex_11_Bit_On_The_Position.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex_11_Bit_On_The_Position/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

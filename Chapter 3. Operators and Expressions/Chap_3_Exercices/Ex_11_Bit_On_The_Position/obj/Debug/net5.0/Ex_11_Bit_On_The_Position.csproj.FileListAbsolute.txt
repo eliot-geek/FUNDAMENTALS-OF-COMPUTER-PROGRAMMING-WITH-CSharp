@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\bin\Debug\net5.0\Ex_11_Bit_On_The_Position.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\bin\Debug\net5.0\Ex_11_Bit_On_The_Position.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\bin\Debug\net5.0\Ex_11_Bit_On_The_Position.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\bin\Debug\net5.0\Ex_11_Bit_On_The_Position.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\bin\Debug\net5.0\Ex_11_Bit_On_The_Position.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\bin\Debug\net5.0\Ex_11_Bit_On_The_Position.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\obj\Debug\net5.0\Ex_11_Bit_On_The_Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\obj\Debug\net5.0\Ex_11_Bit_On_The_Position.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\obj\Debug\net5.0\Ex_11_Bit_On_The_Position.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\obj\Debug\net5.0\Ex_11_Bit_On_The_Position.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\obj\Debug\net5.0\Ex_11_Bit_On_The_Position.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\obj\Debug\net5.0\ref\Ex_11_Bit_On_The_Position.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\obj\Debug\net5.0\Ex_11_Bit_On_The_Position.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\obj\Debug\net5.0\Ex_11_Bit_On_The_Position.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\obj\Debug\net5.0\Ex_11_Bit_On_The_Position.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_11_Bit_On_The_Position\obj\Debug\net5.0\refint\Ex_11_Bit_On_The_Position.dll

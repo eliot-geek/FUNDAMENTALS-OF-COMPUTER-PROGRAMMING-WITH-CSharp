@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\bin\Debug\net5.0\Ex_12_Boolean_Expression.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\bin\Debug\net5.0\Ex_12_Boolean_Expression.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\bin\Debug\net5.0\Ex_12_Boolean_Expression.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\bin\Debug\net5.0\Ex_12_Boolean_Expression.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\bin\Debug\net5.0\Ex_12_Boolean_Expression.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\bin\Debug\net5.0\Ex_12_Boolean_Expression.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\obj\Debug\net5.0\Ex_12_Boolean_Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\obj\Debug\net5.0\Ex_12_Boolean_Expression.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\obj\Debug\net5.0\Ex_12_Boolean_Expression.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\obj\Debug\net5.0\Ex_12_Boolean_Expression.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\obj\Debug\net5.0\Ex_12_Boolean_Expression.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\obj\Debug\net5.0\ref\Ex_12_Boolean_Expression.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\obj\Debug\net5.0\Ex_12_Boolean_Expression.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\obj\Debug\net5.0\Ex_12_Boolean_Expression.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\obj\Debug\net5.0\Ex_12_Boolean_Expression.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_12_Boolean_Expression\obj\Debug\net5.0\refint\Ex_12_Boolean_Expression.dll
