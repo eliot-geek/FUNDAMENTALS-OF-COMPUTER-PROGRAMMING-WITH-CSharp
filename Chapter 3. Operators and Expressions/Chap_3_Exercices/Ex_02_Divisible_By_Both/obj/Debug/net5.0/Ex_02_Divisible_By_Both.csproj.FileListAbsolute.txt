@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\bin\Debug\net5.0\Ex_02_Divisible_By_Both.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\bin\Debug\net5.0\Ex_02_Divisible_By_Both.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\bin\Debug\net5.0\Ex_02_Divisible_By_Both.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\bin\Debug\net5.0\Ex_02_Divisible_By_Both.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\bin\Debug\net5.0\Ex_02_Divisible_By_Both.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\bin\Debug\net5.0\Ex_02_Divisible_By_Both.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\obj\Debug\net5.0\Ex_02_Divisible_By_Both.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\obj\Debug\net5.0\Ex_02_Divisible_By_Both.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\obj\Debug\net5.0\Ex_02_Divisible_By_Both.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\obj\Debug\net5.0\Ex_02_Divisible_By_Both.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\obj\Debug\net5.0\Ex_02_Divisible_By_Both.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\obj\Debug\net5.0\ref\Ex_02_Divisible_By_Both.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\obj\Debug\net5.0\Ex_02_Divisible_By_Both.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\obj\Debug\net5.0\Ex_02_Divisible_By_Both.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\obj\Debug\net5.0\Ex_02_Divisible_By_Both.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_02_Divisible_By_Both\obj\Debug\net5.0\refint\Ex_02_Divisible_By_Both.dll

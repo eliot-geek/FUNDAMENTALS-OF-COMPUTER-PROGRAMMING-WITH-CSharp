@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\bin\Debug\net5.0\Ex_03_Check_Third_Digit.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\bin\Debug\net5.0\Ex_03_Check_Third_Digit.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\bin\Debug\net5.0\Ex_03_Check_Third_Digit.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\bin\Debug\net5.0\Ex_03_Check_Third_Digit.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\bin\Debug\net5.0\Ex_03_Check_Third_Digit.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\bin\Debug\net5.0\Ex_03_Check_Third_Digit.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\obj\Debug\net5.0\Ex_03_Check_Third_Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\obj\Debug\net5.0\Ex_03_Check_Third_Digit.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\obj\Debug\net5.0\Ex_03_Check_Third_Digit.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\obj\Debug\net5.0\Ex_03_Check_Third_Digit.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\obj\Debug\net5.0\Ex_03_Check_Third_Digit.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\obj\Debug\net5.0\ref\Ex_03_Check_Third_Digit.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\obj\Debug\net5.0\Ex_03_Check_Third_Digit.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\obj\Debug\net5.0\Ex_03_Check_Third_Digit.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\obj\Debug\net5.0\Ex_03_Check_Third_Digit.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_03_Check_Third_Digit\obj\Debug\net5.0\refint\Ex_03_Check_Third_Digit.dll
