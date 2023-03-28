@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\bin\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\bin\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\bin\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\bin\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\bin\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\bin\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\obj\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\obj\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\obj\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\obj\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\obj\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\obj\Debug\net5.0\ref\Ex_05_Area_Of_A_Trapezoid.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\obj\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\obj\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\obj\Debug\net5.0\Ex_05_Area_Of_A_Trapezoid.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_05_Area_Of_A_Trapezoid\obj\Debug\net5.0\refint\Ex_05_Area_Of_A_Trapezoid.dll

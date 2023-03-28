@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\bin\Debug\net5.0\Ex_04_Check_Third_Bit.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\bin\Debug\net5.0\Ex_04_Check_Third_Bit.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\bin\Debug\net5.0\Ex_04_Check_Third_Bit.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\bin\Debug\net5.0\Ex_04_Check_Third_Bit.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\bin\Debug\net5.0\Ex_04_Check_Third_Bit.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\bin\Debug\net5.0\Ex_04_Check_Third_Bit.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\obj\Debug\net5.0\Ex_04_Check_Third_Bit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\obj\Debug\net5.0\Ex_04_Check_Third_Bit.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\obj\Debug\net5.0\Ex_04_Check_Third_Bit.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\obj\Debug\net5.0\Ex_04_Check_Third_Bit.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\obj\Debug\net5.0\Ex_04_Check_Third_Bit.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\obj\Debug\net5.0\ref\Ex_04_Check_Third_Bit.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\obj\Debug\net5.0\Ex_04_Check_Third_Bit.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\obj\Debug\net5.0\Ex_04_Check_Third_Bit.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\obj\Debug\net5.0\Ex_04_Check_Third_Bit.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_04_Check_Third_Bit\obj\Debug\net5.0\refint\Ex_04_Check_Third_Bit.dll

@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\bin\Debug\net5.0\Ex_06_Perimet_Area_Rectan.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\bin\Debug\net5.0\Ex_06_Perimet_Area_Rectan.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\bin\Debug\net5.0\Ex_06_Perimet_Area_Rectan.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\bin\Debug\net5.0\Ex_06_Perimet_Area_Rectan.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\bin\Debug\net5.0\Ex_06_Perimet_Area_Rectan.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\bin\Debug\net5.0\Ex_06_Perimet_Area_Rectan.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\obj\Debug\net5.0\Ex_06_Perimet_Area_Rectan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\obj\Debug\net5.0\Ex_06_Perimet_Area_Rectan.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\obj\Debug\net5.0\Ex_06_Perimet_Area_Rectan.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\obj\Debug\net5.0\Ex_06_Perimet_Area_Rectan.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\obj\Debug\net5.0\Ex_06_Perimet_Area_Rectan.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\obj\Debug\net5.0\ref\Ex_06_Perimet_Area_Rectan.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\obj\Debug\net5.0\Ex_06_Perimet_Area_Rectan.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\obj\Debug\net5.0\Ex_06_Perimet_Area_Rectan.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\obj\Debug\net5.0\Ex_06_Perimet_Area_Rectan.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_06_Perimet_Area_Rectan\obj\Debug\net5.0\refint\Ex_06_Perimet_Area_Rectan.dll

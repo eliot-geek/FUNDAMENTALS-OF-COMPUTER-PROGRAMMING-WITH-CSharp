@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex_04_Check_Third_Bit/1.0.0": {
+        "runtime": {
+          "Ex_04_Check_Third_Bit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex_04_Check_Third_Bit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
