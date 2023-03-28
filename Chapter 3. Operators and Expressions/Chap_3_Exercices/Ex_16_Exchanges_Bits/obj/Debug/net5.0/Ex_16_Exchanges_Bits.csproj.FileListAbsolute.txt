@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\bin\Debug\net5.0\Ex_16_Exchanges_Bits.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\bin\Debug\net5.0\Ex_16_Exchanges_Bits.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\bin\Debug\net5.0\Ex_16_Exchanges_Bits.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\bin\Debug\net5.0\Ex_16_Exchanges_Bits.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\bin\Debug\net5.0\Ex_16_Exchanges_Bits.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\bin\Debug\net5.0\Ex_16_Exchanges_Bits.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\obj\Debug\net5.0\Ex_16_Exchanges_Bits.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\obj\Debug\net5.0\Ex_16_Exchanges_Bits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\obj\Debug\net5.0\Ex_16_Exchanges_Bits.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\obj\Debug\net5.0\Ex_16_Exchanges_Bits.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\obj\Debug\net5.0\Ex_16_Exchanges_Bits.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\obj\Debug\net5.0\Ex_16_Exchanges_Bits.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\obj\Debug\net5.0\ref\Ex_16_Exchanges_Bits.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\obj\Debug\net5.0\Ex_16_Exchanges_Bits.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\obj\Debug\net5.0\Ex_16_Exchanges_Bits.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_16_Exchanges_Bits\obj\Debug\net5.0\refint\Ex_16_Exchanges_Bits.dll
