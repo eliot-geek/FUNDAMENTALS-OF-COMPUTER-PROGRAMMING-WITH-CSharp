@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\bin\Debug\net5.0\Ex_13_Sequence_Operations.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\bin\Debug\net5.0\Ex_13_Sequence_Operations.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\bin\Debug\net5.0\Ex_13_Sequence_Operations.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\bin\Debug\net5.0\Ex_13_Sequence_Operations.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\bin\Debug\net5.0\Ex_13_Sequence_Operations.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\bin\Debug\net5.0\Ex_13_Sequence_Operations.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\obj\Debug\net5.0\Ex_13_Sequence_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\obj\Debug\net5.0\Ex_13_Sequence_Operations.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\obj\Debug\net5.0\Ex_13_Sequence_Operations.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\obj\Debug\net5.0\Ex_13_Sequence_Operations.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\obj\Debug\net5.0\Ex_13_Sequence_Operations.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\obj\Debug\net5.0\ref\Ex_13_Sequence_Operations.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\obj\Debug\net5.0\Ex_13_Sequence_Operations.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\obj\Debug\net5.0\Ex_13_Sequence_Operations.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\obj\Debug\net5.0\Ex_13_Sequence_Operations.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_13_Sequence_Operations\obj\Debug\net5.0\refint\Ex_13_Sequence_Operations.dll

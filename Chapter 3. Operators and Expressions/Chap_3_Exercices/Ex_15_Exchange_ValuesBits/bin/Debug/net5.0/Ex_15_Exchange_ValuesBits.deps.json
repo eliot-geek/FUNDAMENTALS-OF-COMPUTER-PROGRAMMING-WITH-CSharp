@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex_15_Exchange_ValuesBits/1.0.0": {
+        "runtime": {
+          "Ex_15_Exchange_ValuesBits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex_15_Exchange_ValuesBits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
