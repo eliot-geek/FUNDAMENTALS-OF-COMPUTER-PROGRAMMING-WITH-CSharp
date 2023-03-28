@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex_09_Within_Circ_Out_Rec/1.0.0": {
+        "runtime": {
+          "Ex_09_Within_Circ_Out_Rec.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex_09_Within_Circ_Out_Rec/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

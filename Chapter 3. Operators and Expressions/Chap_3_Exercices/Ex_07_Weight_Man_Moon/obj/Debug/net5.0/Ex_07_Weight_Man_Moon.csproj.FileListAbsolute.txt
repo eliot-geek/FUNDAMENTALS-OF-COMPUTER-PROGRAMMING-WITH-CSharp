@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\bin\Debug\net5.0\Ex_07_Weight_Man_Moon.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\bin\Debug\net5.0\Ex_07_Weight_Man_Moon.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\bin\Debug\net5.0\Ex_07_Weight_Man_Moon.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\bin\Debug\net5.0\Ex_07_Weight_Man_Moon.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\bin\Debug\net5.0\Ex_07_Weight_Man_Moon.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\bin\Debug\net5.0\Ex_07_Weight_Man_Moon.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\obj\Debug\net5.0\Ex_07_Weight_Man_Moon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\obj\Debug\net5.0\Ex_07_Weight_Man_Moon.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\obj\Debug\net5.0\Ex_07_Weight_Man_Moon.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\obj\Debug\net5.0\Ex_07_Weight_Man_Moon.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\obj\Debug\net5.0\Ex_07_Weight_Man_Moon.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\obj\Debug\net5.0\ref\Ex_07_Weight_Man_Moon.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\obj\Debug\net5.0\Ex_07_Weight_Man_Moon.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\obj\Debug\net5.0\Ex_07_Weight_Man_Moon.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\obj\Debug\net5.0\Ex_07_Weight_Man_Moon.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_07_Weight_Man_Moon\obj\Debug\net5.0\refint\Ex_07_Weight_Man_Moon.dll

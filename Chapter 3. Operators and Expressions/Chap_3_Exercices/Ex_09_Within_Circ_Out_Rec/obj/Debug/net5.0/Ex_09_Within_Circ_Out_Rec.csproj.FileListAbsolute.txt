@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\bin\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\bin\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\bin\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\bin\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\bin\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\bin\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\obj\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\obj\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\obj\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\obj\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\obj\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\obj\Debug\net5.0\ref\Ex_09_Within_Circ_Out_Rec.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\obj\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\obj\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\obj\Debug\net5.0\Ex_09_Within_Circ_Out_Rec.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_09_Within_Circ_Out_Rec\obj\Debug\net5.0\refint\Ex_09_Within_Circ_Out_Rec.dll

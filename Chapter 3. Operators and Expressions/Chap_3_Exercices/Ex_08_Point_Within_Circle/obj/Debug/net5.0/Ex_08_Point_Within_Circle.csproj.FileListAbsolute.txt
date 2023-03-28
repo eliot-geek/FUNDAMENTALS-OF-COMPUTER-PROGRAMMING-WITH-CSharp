@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\bin\Debug\net5.0\Ex_08_Point_Within_Circle.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\bin\Debug\net5.0\Ex_08_Point_Within_Circle.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\bin\Debug\net5.0\Ex_08_Point_Within_Circle.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\bin\Debug\net5.0\Ex_08_Point_Within_Circle.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\bin\Debug\net5.0\Ex_08_Point_Within_Circle.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\bin\Debug\net5.0\Ex_08_Point_Within_Circle.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\obj\Debug\net5.0\Ex_08_Point_Within_Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\obj\Debug\net5.0\Ex_08_Point_Within_Circle.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\obj\Debug\net5.0\Ex_08_Point_Within_Circle.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\obj\Debug\net5.0\Ex_08_Point_Within_Circle.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\obj\Debug\net5.0\Ex_08_Point_Within_Circle.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\obj\Debug\net5.0\ref\Ex_08_Point_Within_Circle.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\obj\Debug\net5.0\Ex_08_Point_Within_Circle.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\obj\Debug\net5.0\Ex_08_Point_Within_Circle.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\obj\Debug\net5.0\Ex_08_Point_Within_Circle.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex_08_Point_Within_Circle\obj\Debug\net5.0\refint\Ex_08_Point_Within_Circle.dll
