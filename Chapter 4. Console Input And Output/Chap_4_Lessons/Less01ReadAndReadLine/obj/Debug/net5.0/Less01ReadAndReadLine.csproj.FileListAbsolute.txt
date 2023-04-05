@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\bin\Debug\net5.0\Less01ReadAndReadLine.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\bin\Debug\net5.0\Less01ReadAndReadLine.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\bin\Debug\net5.0\Less01ReadAndReadLine.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\bin\Debug\net5.0\Less01ReadAndReadLine.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\bin\Debug\net5.0\Less01ReadAndReadLine.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\bin\Debug\net5.0\Less01ReadAndReadLine.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\obj\Debug\net5.0\Less01ReadAndReadLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\obj\Debug\net5.0\Less01ReadAndReadLine.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\obj\Debug\net5.0\Less01ReadAndReadLine.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\obj\Debug\net5.0\Less01ReadAndReadLine.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\obj\Debug\net5.0\Less01ReadAndReadLine.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\obj\Debug\net5.0\ref\Less01ReadAndReadLine.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\obj\Debug\net5.0\Less01ReadAndReadLine.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\obj\Debug\net5.0\Less01ReadAndReadLine.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\obj\Debug\net5.0\Less01ReadAndReadLine.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less01ReadAndReadLine\obj\Debug\net5.0\refint\Less01ReadAndReadLine.dll
