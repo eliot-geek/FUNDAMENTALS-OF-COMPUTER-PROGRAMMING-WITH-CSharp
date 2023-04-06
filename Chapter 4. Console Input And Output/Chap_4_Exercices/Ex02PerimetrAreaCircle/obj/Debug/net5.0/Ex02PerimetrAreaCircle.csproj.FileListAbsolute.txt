@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\bin\Debug\net5.0\Ex02PerimetrAreaCircle.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\bin\Debug\net5.0\Ex02PerimetrAreaCircle.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\bin\Debug\net5.0\Ex02PerimetrAreaCircle.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\bin\Debug\net5.0\Ex02PerimetrAreaCircle.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\bin\Debug\net5.0\Ex02PerimetrAreaCircle.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\bin\Debug\net5.0\Ex02PerimetrAreaCircle.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\obj\Debug\net5.0\Ex02PerimetrAreaCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\obj\Debug\net5.0\Ex02PerimetrAreaCircle.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\obj\Debug\net5.0\Ex02PerimetrAreaCircle.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\obj\Debug\net5.0\Ex02PerimetrAreaCircle.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\obj\Debug\net5.0\Ex02PerimetrAreaCircle.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\obj\Debug\net5.0\ref\Ex02PerimetrAreaCircle.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\obj\Debug\net5.0\Ex02PerimetrAreaCircle.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\obj\Debug\net5.0\Ex02PerimetrAreaCircle.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\obj\Debug\net5.0\Ex02PerimetrAreaCircle.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PerimetrAreaCircle\obj\Debug\net5.0\refint\Ex02PerimetrAreaCircle.dll

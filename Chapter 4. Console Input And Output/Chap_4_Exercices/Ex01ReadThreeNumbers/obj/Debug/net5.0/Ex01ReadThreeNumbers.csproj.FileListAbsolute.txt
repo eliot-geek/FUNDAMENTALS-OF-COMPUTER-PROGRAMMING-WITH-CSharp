@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\bin\Debug\net5.0\Ex01ReadThreeNumbers.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\bin\Debug\net5.0\Ex01ReadThreeNumbers.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\bin\Debug\net5.0\Ex01ReadThreeNumbers.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\bin\Debug\net5.0\Ex01ReadThreeNumbers.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\bin\Debug\net5.0\Ex01ReadThreeNumbers.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\bin\Debug\net5.0\Ex01ReadThreeNumbers.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\obj\Debug\net5.0\Ex01ReadThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\obj\Debug\net5.0\Ex01ReadThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\obj\Debug\net5.0\Ex01ReadThreeNumbers.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\obj\Debug\net5.0\Ex01ReadThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\obj\Debug\net5.0\Ex01ReadThreeNumbers.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\obj\Debug\net5.0\ref\Ex01ReadThreeNumbers.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\obj\Debug\net5.0\Ex01ReadThreeNumbers.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\obj\Debug\net5.0\Ex01ReadThreeNumbers.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\obj\Debug\net5.0\Ex01ReadThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ReadThreeNumbers\obj\Debug\net5.0\refint\Ex01ReadThreeNumbers.dll
