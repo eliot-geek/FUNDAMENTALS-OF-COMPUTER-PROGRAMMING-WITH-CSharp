@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\bin\Debug\net5.0\Ex13ReadFromConsoleCalcul.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\bin\Debug\net5.0\Ex13ReadFromConsoleCalcul.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\bin\Debug\net5.0\Ex13ReadFromConsoleCalcul.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\bin\Debug\net5.0\Ex13ReadFromConsoleCalcul.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\bin\Debug\net5.0\Ex13ReadFromConsoleCalcul.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\bin\Debug\net5.0\Ex13ReadFromConsoleCalcul.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\obj\Debug\net5.0\Ex13ReadFromConsoleCalcul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\obj\Debug\net5.0\Ex13ReadFromConsoleCalcul.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\obj\Debug\net5.0\Ex13ReadFromConsoleCalcul.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\obj\Debug\net5.0\Ex13ReadFromConsoleCalcul.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\obj\Debug\net5.0\Ex13ReadFromConsoleCalcul.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\obj\Debug\net5.0\ref\Ex13ReadFromConsoleCalcul.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\obj\Debug\net5.0\Ex13ReadFromConsoleCalcul.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\obj\Debug\net5.0\Ex13ReadFromConsoleCalcul.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\obj\Debug\net5.0\Ex13ReadFromConsoleCalcul.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13ReadFromConsoleCalcul\obj\Debug\net5.0\refint\Ex13ReadFromConsoleCalcul.dll
