@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\bin\Debug\net5.0\Ex11FibonacciSequence100.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\bin\Debug\net5.0\Ex11FibonacciSequence100.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\bin\Debug\net5.0\Ex11FibonacciSequence100.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\bin\Debug\net5.0\Ex11FibonacciSequence100.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\bin\Debug\net5.0\Ex11FibonacciSequence100.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\bin\Debug\net5.0\Ex11FibonacciSequence100.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\obj\Debug\net5.0\Ex11FibonacciSequence100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\obj\Debug\net5.0\Ex11FibonacciSequence100.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\obj\Debug\net5.0\Ex11FibonacciSequence100.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\obj\Debug\net5.0\Ex11FibonacciSequence100.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\obj\Debug\net5.0\Ex11FibonacciSequence100.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\obj\Debug\net5.0\ref\Ex11FibonacciSequence100.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\obj\Debug\net5.0\Ex11FibonacciSequence100.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\obj\Debug\net5.0\Ex11FibonacciSequence100.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\obj\Debug\net5.0\Ex11FibonacciSequence100.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11FibonacciSequence100\obj\Debug\net5.0\refint\Ex11FibonacciSequence100.dll

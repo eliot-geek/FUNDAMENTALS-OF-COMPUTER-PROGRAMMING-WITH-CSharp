@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\bin\Debug\net5.0\Ex10PrintAllNumbersRange.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\bin\Debug\net5.0\Ex10PrintAllNumbersRange.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\bin\Debug\net5.0\Ex10PrintAllNumbersRange.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\bin\Debug\net5.0\Ex10PrintAllNumbersRange.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\bin\Debug\net5.0\Ex10PrintAllNumbersRange.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\bin\Debug\net5.0\Ex10PrintAllNumbersRange.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\obj\Debug\net5.0\Ex10PrintAllNumbersRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\obj\Debug\net5.0\Ex10PrintAllNumbersRange.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\obj\Debug\net5.0\Ex10PrintAllNumbersRange.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\obj\Debug\net5.0\Ex10PrintAllNumbersRange.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\obj\Debug\net5.0\Ex10PrintAllNumbersRange.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\obj\Debug\net5.0\ref\Ex10PrintAllNumbersRange.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\obj\Debug\net5.0\Ex10PrintAllNumbersRange.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\obj\Debug\net5.0\Ex10PrintAllNumbersRange.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\obj\Debug\net5.0\Ex10PrintAllNumbersRange.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PrintAllNumbersRange\obj\Debug\net5.0\refint\Ex10PrintAllNumbersRange.dll
