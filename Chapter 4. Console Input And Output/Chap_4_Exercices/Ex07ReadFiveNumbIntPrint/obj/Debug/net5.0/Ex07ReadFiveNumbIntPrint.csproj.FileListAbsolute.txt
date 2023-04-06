@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\bin\Debug\net5.0\Ex07ReadFiveNumbIntPrint.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\bin\Debug\net5.0\Ex07ReadFiveNumbIntPrint.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\bin\Debug\net5.0\Ex07ReadFiveNumbIntPrint.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\bin\Debug\net5.0\Ex07ReadFiveNumbIntPrint.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\bin\Debug\net5.0\Ex07ReadFiveNumbIntPrint.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\bin\Debug\net5.0\Ex07ReadFiveNumbIntPrint.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\obj\Debug\net5.0\Ex07ReadFiveNumbIntPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\obj\Debug\net5.0\Ex07ReadFiveNumbIntPrint.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\obj\Debug\net5.0\Ex07ReadFiveNumbIntPrint.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\obj\Debug\net5.0\Ex07ReadFiveNumbIntPrint.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\obj\Debug\net5.0\Ex07ReadFiveNumbIntPrint.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\obj\Debug\net5.0\ref\Ex07ReadFiveNumbIntPrint.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\obj\Debug\net5.0\Ex07ReadFiveNumbIntPrint.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\obj\Debug\net5.0\Ex07ReadFiveNumbIntPrint.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\obj\Debug\net5.0\Ex07ReadFiveNumbIntPrint.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07ReadFiveNumbIntPrint\obj\Debug\net5.0\refint\Ex07ReadFiveNumbIntPrint.dll

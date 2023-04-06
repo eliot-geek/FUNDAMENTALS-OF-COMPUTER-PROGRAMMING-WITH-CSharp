@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\bin\Debug\net5.0\Ex08PrintTheGreatestNumb.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\bin\Debug\net5.0\Ex08PrintTheGreatestNumb.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\bin\Debug\net5.0\Ex08PrintTheGreatestNumb.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\bin\Debug\net5.0\Ex08PrintTheGreatestNumb.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\bin\Debug\net5.0\Ex08PrintTheGreatestNumb.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\bin\Debug\net5.0\Ex08PrintTheGreatestNumb.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\obj\Debug\net5.0\Ex08PrintTheGreatestNumb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\obj\Debug\net5.0\Ex08PrintTheGreatestNumb.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\obj\Debug\net5.0\Ex08PrintTheGreatestNumb.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\obj\Debug\net5.0\Ex08PrintTheGreatestNumb.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\obj\Debug\net5.0\Ex08PrintTheGreatestNumb.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\obj\Debug\net5.0\ref\Ex08PrintTheGreatestNumb.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\obj\Debug\net5.0\Ex08PrintTheGreatestNumb.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\obj\Debug\net5.0\Ex08PrintTheGreatestNumb.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\obj\Debug\net5.0\Ex08PrintTheGreatestNumb.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08PrintTheGreatestNumb\obj\Debug\net5.0\refint\Ex08PrintTheGreatestNumb.dll

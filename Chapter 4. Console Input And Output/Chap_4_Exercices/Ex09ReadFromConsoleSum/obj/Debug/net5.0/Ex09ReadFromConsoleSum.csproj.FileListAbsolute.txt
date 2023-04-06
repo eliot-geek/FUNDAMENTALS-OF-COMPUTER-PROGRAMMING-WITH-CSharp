@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\bin\Debug\net5.0\Ex09ReadFromConsoleSum.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\bin\Debug\net5.0\Ex09ReadFromConsoleSum.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\bin\Debug\net5.0\Ex09ReadFromConsoleSum.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\bin\Debug\net5.0\Ex09ReadFromConsoleSum.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\bin\Debug\net5.0\Ex09ReadFromConsoleSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\bin\Debug\net5.0\Ex09ReadFromConsoleSum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\obj\Debug\net5.0\Ex09ReadFromConsoleSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\obj\Debug\net5.0\Ex09ReadFromConsoleSum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\obj\Debug\net5.0\Ex09ReadFromConsoleSum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\obj\Debug\net5.0\Ex09ReadFromConsoleSum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\obj\Debug\net5.0\Ex09ReadFromConsoleSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\obj\Debug\net5.0\ref\Ex09ReadFromConsoleSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\obj\Debug\net5.0\Ex09ReadFromConsoleSum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\obj\Debug\net5.0\Ex09ReadFromConsoleSum.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\obj\Debug\net5.0\Ex09ReadFromConsoleSum.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09ReadFromConsoleSum\obj\Debug\net5.0\refint\Ex09ReadFromConsoleSum.dll
