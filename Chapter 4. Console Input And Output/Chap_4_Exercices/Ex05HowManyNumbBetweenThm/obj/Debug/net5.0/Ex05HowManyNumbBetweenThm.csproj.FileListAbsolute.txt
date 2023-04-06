@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\bin\Debug\net5.0\Ex05HowManyNumbBetweenThm.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\bin\Debug\net5.0\Ex05HowManyNumbBetweenThm.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\bin\Debug\net5.0\Ex05HowManyNumbBetweenThm.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\bin\Debug\net5.0\Ex05HowManyNumbBetweenThm.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\bin\Debug\net5.0\Ex05HowManyNumbBetweenThm.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\bin\Debug\net5.0\Ex05HowManyNumbBetweenThm.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\obj\Debug\net5.0\Ex05HowManyNumbBetweenThm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\obj\Debug\net5.0\Ex05HowManyNumbBetweenThm.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\obj\Debug\net5.0\Ex05HowManyNumbBetweenThm.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\obj\Debug\net5.0\Ex05HowManyNumbBetweenThm.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\obj\Debug\net5.0\Ex05HowManyNumbBetweenThm.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\obj\Debug\net5.0\ref\Ex05HowManyNumbBetweenThm.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\obj\Debug\net5.0\Ex05HowManyNumbBetweenThm.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\obj\Debug\net5.0\Ex05HowManyNumbBetweenThm.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\obj\Debug\net5.0\Ex05HowManyNumbBetweenThm.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05HowManyNumbBetweenThm\obj\Debug\net5.0\refint\Ex05HowManyNumbBetweenThm.dll

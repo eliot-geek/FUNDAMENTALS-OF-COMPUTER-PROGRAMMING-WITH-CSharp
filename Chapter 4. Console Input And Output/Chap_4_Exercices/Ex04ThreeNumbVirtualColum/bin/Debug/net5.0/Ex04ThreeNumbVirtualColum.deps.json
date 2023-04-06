@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex04ThreeNumbVirtualColum/1.0.0": {
+        "runtime": {
+          "Ex04ThreeNumbVirtualColum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex04ThreeNumbVirtualColum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

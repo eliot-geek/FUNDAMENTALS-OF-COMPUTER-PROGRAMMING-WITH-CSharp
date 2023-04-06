@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\bin\Debug\net5.0\Ex04ThreeNumbVirtualColum.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\bin\Debug\net5.0\Ex04ThreeNumbVirtualColum.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\bin\Debug\net5.0\Ex04ThreeNumbVirtualColum.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\bin\Debug\net5.0\Ex04ThreeNumbVirtualColum.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\bin\Debug\net5.0\Ex04ThreeNumbVirtualColum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\bin\Debug\net5.0\Ex04ThreeNumbVirtualColum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\obj\Debug\net5.0\Ex04ThreeNumbVirtualColum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\obj\Debug\net5.0\Ex04ThreeNumbVirtualColum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\obj\Debug\net5.0\Ex04ThreeNumbVirtualColum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\obj\Debug\net5.0\Ex04ThreeNumbVirtualColum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\obj\Debug\net5.0\Ex04ThreeNumbVirtualColum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\obj\Debug\net5.0\ref\Ex04ThreeNumbVirtualColum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\obj\Debug\net5.0\Ex04ThreeNumbVirtualColum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\obj\Debug\net5.0\Ex04ThreeNumbVirtualColum.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\obj\Debug\net5.0\Ex04ThreeNumbVirtualColum.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04ThreeNumbVirtualColum\obj\Debug\net5.0\refint\Ex04ThreeNumbVirtualColum.dll
