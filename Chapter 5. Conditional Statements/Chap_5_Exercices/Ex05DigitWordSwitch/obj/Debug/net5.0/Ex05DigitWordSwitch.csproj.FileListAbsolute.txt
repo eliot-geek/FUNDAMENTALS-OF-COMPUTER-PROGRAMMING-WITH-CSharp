@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\bin\Debug\net5.0\Ex05DigitWordSwitch.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\bin\Debug\net5.0\Ex05DigitWordSwitch.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\bin\Debug\net5.0\Ex05DigitWordSwitch.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\bin\Debug\net5.0\Ex05DigitWordSwitch.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\bin\Debug\net5.0\Ex05DigitWordSwitch.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\bin\Debug\net5.0\Ex05DigitWordSwitch.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\obj\Debug\net5.0\Ex05DigitWordSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\obj\Debug\net5.0\Ex05DigitWordSwitch.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\obj\Debug\net5.0\Ex05DigitWordSwitch.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\obj\Debug\net5.0\Ex05DigitWordSwitch.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\obj\Debug\net5.0\Ex05DigitWordSwitch.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\obj\Debug\net5.0\ref\Ex05DigitWordSwitch.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\obj\Debug\net5.0\Ex05DigitWordSwitch.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\obj\Debug\net5.0\Ex05DigitWordSwitch.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\obj\Debug\net5.0\Ex05DigitWordSwitch.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05DigitWordSwitch\obj\Debug\net5.0\refint\Ex05DigitWordSwitch.dll

@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\bin\Debug\net5.0\Ex04Sort3RealNumbersDesce.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\bin\Debug\net5.0\Ex04Sort3RealNumbersDesce.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\bin\Debug\net5.0\Ex04Sort3RealNumbersDesce.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\bin\Debug\net5.0\Ex04Sort3RealNumbersDesce.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\bin\Debug\net5.0\Ex04Sort3RealNumbersDesce.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\bin\Debug\net5.0\Ex04Sort3RealNumbersDesce.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\obj\Debug\net5.0\Ex04Sort3RealNumbersDesce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\obj\Debug\net5.0\Ex04Sort3RealNumbersDesce.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\obj\Debug\net5.0\Ex04Sort3RealNumbersDesce.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\obj\Debug\net5.0\Ex04Sort3RealNumbersDesce.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\obj\Debug\net5.0\Ex04Sort3RealNumbersDesce.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\obj\Debug\net5.0\ref\Ex04Sort3RealNumbersDesce.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\obj\Debug\net5.0\Ex04Sort3RealNumbersDesce.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\obj\Debug\net5.0\Ex04Sort3RealNumbersDesce.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\obj\Debug\net5.0\Ex04Sort3RealNumbersDesce.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04Sort3RealNumbersDesce\obj\Debug\net5.0\refint\Ex04Sort3RealNumbersDesce.dll
