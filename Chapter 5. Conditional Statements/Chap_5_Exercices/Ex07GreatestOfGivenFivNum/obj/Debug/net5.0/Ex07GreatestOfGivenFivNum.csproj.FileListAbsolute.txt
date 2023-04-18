@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\bin\Debug\net5.0\Ex07GreatestOfGivenFivNum.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\bin\Debug\net5.0\Ex07GreatestOfGivenFivNum.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\bin\Debug\net5.0\Ex07GreatestOfGivenFivNum.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\bin\Debug\net5.0\Ex07GreatestOfGivenFivNum.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\bin\Debug\net5.0\Ex07GreatestOfGivenFivNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\bin\Debug\net5.0\Ex07GreatestOfGivenFivNum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\obj\Debug\net5.0\Ex07GreatestOfGivenFivNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\obj\Debug\net5.0\Ex07GreatestOfGivenFivNum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\obj\Debug\net5.0\Ex07GreatestOfGivenFivNum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\obj\Debug\net5.0\Ex07GreatestOfGivenFivNum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\obj\Debug\net5.0\Ex07GreatestOfGivenFivNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\obj\Debug\net5.0\ref\Ex07GreatestOfGivenFivNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\obj\Debug\net5.0\Ex07GreatestOfGivenFivNum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\obj\Debug\net5.0\Ex07GreatestOfGivenFivNum.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\obj\Debug\net5.0\Ex07GreatestOfGivenFivNum.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07GreatestOfGivenFivNum\obj\Debug\net5.0\refint\Ex07GreatestOfGivenFivNum.dll

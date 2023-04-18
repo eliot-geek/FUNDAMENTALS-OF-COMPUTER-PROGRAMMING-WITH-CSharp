@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\bin\Debug\net5.0\Ex08InputIntDoubleString.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\bin\Debug\net5.0\Ex08InputIntDoubleString.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\bin\Debug\net5.0\Ex08InputIntDoubleString.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\bin\Debug\net5.0\Ex08InputIntDoubleString.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\bin\Debug\net5.0\Ex08InputIntDoubleString.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\bin\Debug\net5.0\Ex08InputIntDoubleString.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\obj\Debug\net5.0\Ex08InputIntDoubleString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\obj\Debug\net5.0\Ex08InputIntDoubleString.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\obj\Debug\net5.0\Ex08InputIntDoubleString.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\obj\Debug\net5.0\Ex08InputIntDoubleString.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\obj\Debug\net5.0\Ex08InputIntDoubleString.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\obj\Debug\net5.0\ref\Ex08InputIntDoubleString.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\obj\Debug\net5.0\Ex08InputIntDoubleString.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\obj\Debug\net5.0\Ex08InputIntDoubleString.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\obj\Debug\net5.0\Ex08InputIntDoubleString.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08InputIntDoubleString\obj\Debug\net5.0\refint\Ex08InputIntDoubleString.dll
