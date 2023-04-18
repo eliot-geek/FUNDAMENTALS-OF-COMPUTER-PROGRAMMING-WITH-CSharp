@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\bin\Debug\net5.0\Ex11ConvertsNumberToWords.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\bin\Debug\net5.0\Ex11ConvertsNumberToWords.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\bin\Debug\net5.0\Ex11ConvertsNumberToWords.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\bin\Debug\net5.0\Ex11ConvertsNumberToWords.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\bin\Debug\net5.0\Ex11ConvertsNumberToWords.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\bin\Debug\net5.0\Ex11ConvertsNumberToWords.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\obj\Debug\net5.0\Ex11ConvertsNumberToWords.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\obj\Debug\net5.0\Ex11ConvertsNumberToWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\obj\Debug\net5.0\Ex11ConvertsNumberToWords.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\obj\Debug\net5.0\Ex11ConvertsNumberToWords.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\obj\Debug\net5.0\Ex11ConvertsNumberToWords.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\obj\Debug\net5.0\Ex11ConvertsNumberToWords.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\obj\Debug\net5.0\ref\Ex11ConvertsNumberToWords.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\obj\Debug\net5.0\Ex11ConvertsNumberToWords.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\obj\Debug\net5.0\Ex11ConvertsNumberToWords.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11ConvertsNumberToWords\obj\Debug\net5.0\refint\Ex11ConvertsNumberToWords.dll

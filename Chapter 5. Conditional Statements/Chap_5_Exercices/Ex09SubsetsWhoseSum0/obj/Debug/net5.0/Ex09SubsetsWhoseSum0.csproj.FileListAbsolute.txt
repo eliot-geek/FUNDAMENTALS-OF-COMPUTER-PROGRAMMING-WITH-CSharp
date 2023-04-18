@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\bin\Debug\net5.0\Ex09SubsetsWhoseSum0.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\bin\Debug\net5.0\Ex09SubsetsWhoseSum0.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\bin\Debug\net5.0\Ex09SubsetsWhoseSum0.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\bin\Debug\net5.0\Ex09SubsetsWhoseSum0.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\bin\Debug\net5.0\Ex09SubsetsWhoseSum0.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\bin\Debug\net5.0\Ex09SubsetsWhoseSum0.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\obj\Debug\net5.0\Ex09SubsetsWhoseSum0.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\obj\Debug\net5.0\Ex09SubsetsWhoseSum0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\obj\Debug\net5.0\Ex09SubsetsWhoseSum0.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\obj\Debug\net5.0\Ex09SubsetsWhoseSum0.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\obj\Debug\net5.0\Ex09SubsetsWhoseSum0.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\obj\Debug\net5.0\Ex09SubsetsWhoseSum0.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\obj\Debug\net5.0\ref\Ex09SubsetsWhoseSum0.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\obj\Debug\net5.0\Ex09SubsetsWhoseSum0.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\obj\Debug\net5.0\Ex09SubsetsWhoseSum0.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsetsWhoseSum0\obj\Debug\net5.0\refint\Ex09SubsetsWhoseSum0.dll
