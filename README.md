@@ -1,4 +1,4 @@
-# Fundamentals-Of-Computer-Programming-With-CSharp-2013
+# Fundamentals Of Computer Programming With CSharp
 
 "Fundamentals Of Computer Programming With C#" is a comprehensive book written by Svetlin Nakov and his team of developers. It is designed for beginners who are looking
 to learn programming with C# from scratch. The book covers a wide range of topics, starting from basic programming concepts like data types, variables, and operators, to
