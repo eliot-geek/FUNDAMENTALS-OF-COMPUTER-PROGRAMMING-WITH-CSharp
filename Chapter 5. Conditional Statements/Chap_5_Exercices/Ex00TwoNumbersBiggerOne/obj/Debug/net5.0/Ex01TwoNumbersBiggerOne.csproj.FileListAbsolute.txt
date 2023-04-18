@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\bin\Debug\net5.0\Ex01TwoNumbersBiggerOne.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\bin\Debug\net5.0\Ex01TwoNumbersBiggerOne.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\bin\Debug\net5.0\Ex01TwoNumbersBiggerOne.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\bin\Debug\net5.0\Ex01TwoNumbersBiggerOne.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\bin\Debug\net5.0\Ex01TwoNumbersBiggerOne.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\bin\Debug\net5.0\Ex01TwoNumbersBiggerOne.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\obj\Debug\net5.0\Ex01TwoNumbersBiggerOne.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\obj\Debug\net5.0\Ex01TwoNumbersBiggerOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\obj\Debug\net5.0\Ex01TwoNumbersBiggerOne.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\obj\Debug\net5.0\Ex01TwoNumbersBiggerOne.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\obj\Debug\net5.0\Ex01TwoNumbersBiggerOne.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\obj\Debug\net5.0\Ex01TwoNumbersBiggerOne.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\obj\Debug\net5.0\refint\Ex01TwoNumbersBiggerOne.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\obj\Debug\net5.0\Ex01TwoNumbersBiggerOne.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\obj\Debug\net5.0\Ex01TwoNumbersBiggerOne.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex00TwoNumbersBiggerOne\obj\Debug\net5.0\ref\Ex01TwoNumbersBiggerOne.dll

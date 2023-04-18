@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\bin\Debug\net5.0\Ex01SignOfProductThreeNum.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\bin\Debug\net5.0\Ex01SignOfProductThreeNum.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\bin\Debug\net5.0\Ex01SignOfProductThreeNum.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\bin\Debug\net5.0\Ex01SignOfProductThreeNum.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\bin\Debug\net5.0\Ex01SignOfProductThreeNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\bin\Debug\net5.0\ref\Ex01SignOfProductThreeNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\bin\Debug\net5.0\Ex01SignOfProductThreeNum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\obj\Debug\net5.0\Ex01SignOfProductThreeNum.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\obj\Debug\net5.0\Ex01SignOfProductThreeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\obj\Debug\net5.0\Ex01SignOfProductThreeNum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\obj\Debug\net5.0\Ex01SignOfProductThreeNum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\obj\Debug\net5.0\Ex01SignOfProductThreeNum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\obj\Debug\net5.0\Ex01SignOfProductThreeNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\obj\Debug\net5.0\ref\Ex01SignOfProductThreeNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\obj\Debug\net5.0\Ex01SignOfProductThreeNum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01SignOfProductThreeNum\obj\Debug\net5.0\Ex01SignOfProductThreeNum.genruntimeconfig.cache
