@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\bin\Debug\net5.0\Less08NestedLoopsTriangle.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\bin\Debug\net5.0\Less08NestedLoopsTriangle.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\bin\Debug\net5.0\Less08NestedLoopsTriangle.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\bin\Debug\net5.0\Less08NestedLoopsTriangle.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\bin\Debug\net5.0\Less08NestedLoopsTriangle.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\bin\Debug\net5.0\Less08NestedLoopsTriangle.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\obj\Debug\net5.0\Less08NestedLoopsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\obj\Debug\net5.0\Less08NestedLoopsTriangle.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\obj\Debug\net5.0\Less08NestedLoopsTriangle.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\obj\Debug\net5.0\Less08NestedLoopsTriangle.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\obj\Debug\net5.0\Less08NestedLoopsTriangle.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\obj\Debug\net5.0\ref\Less08NestedLoopsTriangle.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\obj\Debug\net5.0\Less08NestedLoopsTriangle.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\obj\Debug\net5.0\Less08NestedLoopsTriangle.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\obj\Debug\net5.0\Less08NestedLoopsTriangle.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08NestedLoopsTriangle\obj\Debug\net5.0\refint\Less08NestedLoopsTriangle.dll

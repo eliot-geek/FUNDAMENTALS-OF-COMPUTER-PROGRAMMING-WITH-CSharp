@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\bin\Debug\net5.0\Less09PrimeNumberInterval.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\bin\Debug\net5.0\Less09PrimeNumberInterval.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\bin\Debug\net5.0\Less09PrimeNumberInterval.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\bin\Debug\net5.0\Less09PrimeNumberInterval.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\bin\Debug\net5.0\Less09PrimeNumberInterval.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\bin\Debug\net5.0\Less09PrimeNumberInterval.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\obj\Debug\net5.0\Less09PrimeNumberInterval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\obj\Debug\net5.0\Less09PrimeNumberInterval.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\obj\Debug\net5.0\Less09PrimeNumberInterval.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\obj\Debug\net5.0\Less09PrimeNumberInterval.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\obj\Debug\net5.0\Less09PrimeNumberInterval.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\obj\Debug\net5.0\ref\Less09PrimeNumberInterval.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\obj\Debug\net5.0\Less09PrimeNumberInterval.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\obj\Debug\net5.0\Less09PrimeNumberInterval.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\obj\Debug\net5.0\Less09PrimeNumberInterval.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less09PrimeNumberInterval\obj\Debug\net5.0\refint\Less09PrimeNumberInterval.dll

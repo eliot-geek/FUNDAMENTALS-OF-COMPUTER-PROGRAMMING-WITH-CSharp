@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Less10LuckyNumbers/1.0.0": {
+        "runtime": {
+          "Less10LuckyNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less10LuckyNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
