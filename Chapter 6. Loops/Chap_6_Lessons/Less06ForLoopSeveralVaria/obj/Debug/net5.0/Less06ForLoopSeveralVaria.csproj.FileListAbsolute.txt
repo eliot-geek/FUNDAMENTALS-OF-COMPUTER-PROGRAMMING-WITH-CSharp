@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\bin\Debug\net5.0\Less06ForLoopSeveralVaria.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\bin\Debug\net5.0\Less06ForLoopSeveralVaria.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\bin\Debug\net5.0\Less06ForLoopSeveralVaria.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\bin\Debug\net5.0\Less06ForLoopSeveralVaria.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\bin\Debug\net5.0\Less06ForLoopSeveralVaria.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\bin\Debug\net5.0\Less06ForLoopSeveralVaria.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\obj\Debug\net5.0\Less06ForLoopSeveralVaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\obj\Debug\net5.0\Less06ForLoopSeveralVaria.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\obj\Debug\net5.0\Less06ForLoopSeveralVaria.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\obj\Debug\net5.0\Less06ForLoopSeveralVaria.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\obj\Debug\net5.0\Less06ForLoopSeveralVaria.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\obj\Debug\net5.0\ref\Less06ForLoopSeveralVaria.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\obj\Debug\net5.0\Less06ForLoopSeveralVaria.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\obj\Debug\net5.0\Less06ForLoopSeveralVaria.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\obj\Debug\net5.0\Less06ForLoopSeveralVaria.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06ForLoopSeveralVaria\obj\Debug\net5.0\refint\Less06ForLoopSeveralVaria.dll
