@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Less11Lottery649/1.0.0": {
+        "runtime": {
+          "Less11Lottery649.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less11Lottery649/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
