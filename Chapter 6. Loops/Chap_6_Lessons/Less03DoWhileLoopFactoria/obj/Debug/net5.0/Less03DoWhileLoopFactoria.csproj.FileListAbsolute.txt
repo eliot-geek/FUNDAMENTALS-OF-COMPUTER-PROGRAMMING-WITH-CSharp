@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\bin\Debug\net5.0\Less03DoWhileLoopFactoria.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\bin\Debug\net5.0\Less03DoWhileLoopFactoria.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\bin\Debug\net5.0\Less03DoWhileLoopFactoria.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\bin\Debug\net5.0\Less03DoWhileLoopFactoria.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\bin\Debug\net5.0\Less03DoWhileLoopFactoria.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\bin\Debug\net5.0\Less03DoWhileLoopFactoria.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\obj\Debug\net5.0\Less03DoWhileLoopFactoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\obj\Debug\net5.0\Less03DoWhileLoopFactoria.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\obj\Debug\net5.0\Less03DoWhileLoopFactoria.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\obj\Debug\net5.0\Less03DoWhileLoopFactoria.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\obj\Debug\net5.0\Less03DoWhileLoopFactoria.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\obj\Debug\net5.0\ref\Less03DoWhileLoopFactoria.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\obj\Debug\net5.0\Less03DoWhileLoopFactoria.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\obj\Debug\net5.0\Less03DoWhileLoopFactoria.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\obj\Debug\net5.0\Less03DoWhileLoopFactoria.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03DoWhileLoopFactoria\obj\Debug\net5.0\refint\Less03DoWhileLoopFactoria.dll
