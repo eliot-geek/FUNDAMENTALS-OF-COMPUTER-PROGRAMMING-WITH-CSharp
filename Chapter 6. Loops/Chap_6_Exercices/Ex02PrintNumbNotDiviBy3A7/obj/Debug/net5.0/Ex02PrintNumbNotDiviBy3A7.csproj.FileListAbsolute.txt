@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\bin\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\bin\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\bin\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\bin\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\bin\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\bin\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\obj\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\obj\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\obj\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\obj\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\obj\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\obj\Debug\net5.0\ref\Ex02PrintNumbNotDiviBy3A7.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\obj\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\obj\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\obj\Debug\net5.0\Ex02PrintNumbNotDiviBy3A7.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02PrintNumbNotDiviBy3A7\obj\Debug\net5.0\refint\Ex02PrintNumbNotDiviBy3A7.dll

@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\bin\Debug\net5.0\Ex01PrintNumbersFrom1toN.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\bin\Debug\net5.0\Ex01PrintNumbersFrom1toN.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\bin\Debug\net5.0\Ex01PrintNumbersFrom1toN.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\bin\Debug\net5.0\Ex01PrintNumbersFrom1toN.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\bin\Debug\net5.0\Ex01PrintNumbersFrom1toN.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\bin\Debug\net5.0\Ex01PrintNumbersFrom1toN.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\obj\Debug\net5.0\Ex01PrintNumbersFrom1toN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\obj\Debug\net5.0\Ex01PrintNumbersFrom1toN.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\obj\Debug\net5.0\Ex01PrintNumbersFrom1toN.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\obj\Debug\net5.0\Ex01PrintNumbersFrom1toN.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\obj\Debug\net5.0\Ex01PrintNumbersFrom1toN.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\obj\Debug\net5.0\ref\Ex01PrintNumbersFrom1toN.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\obj\Debug\net5.0\Ex01PrintNumbersFrom1toN.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\obj\Debug\net5.0\Ex01PrintNumbersFrom1toN.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\obj\Debug\net5.0\Ex01PrintNumbersFrom1toN.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01PrintNumbersFrom1toN\obj\Debug\net5.0\refint\Ex01PrintNumbersFrom1toN.dll

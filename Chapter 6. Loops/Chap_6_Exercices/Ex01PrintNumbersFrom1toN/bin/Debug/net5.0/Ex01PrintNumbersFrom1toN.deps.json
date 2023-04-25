@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex01PrintNumbersFrom1toN/1.0.0": {
+        "runtime": {
+          "Ex01PrintNumbersFrom1toN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex01PrintNumbersFrom1toN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
