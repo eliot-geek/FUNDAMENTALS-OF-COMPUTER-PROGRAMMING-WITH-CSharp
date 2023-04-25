@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\bin\Debug\net5.0\Ex06FractionOfFactorials.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\bin\Debug\net5.0\Ex06FractionOfFactorials.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\bin\Debug\net5.0\Ex06FractionOfFactorials.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\bin\Debug\net5.0\Ex06FractionOfFactorials.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\bin\Debug\net5.0\Ex06FractionOfFactorials.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\bin\Debug\net5.0\Ex06FractionOfFactorials.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\obj\Debug\net5.0\Ex06FractionOfFactorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\obj\Debug\net5.0\Ex06FractionOfFactorials.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\obj\Debug\net5.0\Ex06FractionOfFactorials.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\obj\Debug\net5.0\Ex06FractionOfFactorials.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\obj\Debug\net5.0\Ex06FractionOfFactorials.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\obj\Debug\net5.0\ref\Ex06FractionOfFactorials.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\obj\Debug\net5.0\Ex06FractionOfFactorials.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\obj\Debug\net5.0\Ex06FractionOfFactorials.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\obj\Debug\net5.0\Ex06FractionOfFactorials.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FractionOfFactorials\obj\Debug\net5.0\refint\Ex06FractionOfFactorials.dll

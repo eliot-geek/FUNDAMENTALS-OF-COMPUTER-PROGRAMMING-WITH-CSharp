@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\bin\Debug\net5.0\Ex05FibonacciSequenceSum.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\bin\Debug\net5.0\Ex05FibonacciSequenceSum.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\bin\Debug\net5.0\Ex05FibonacciSequenceSum.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\bin\Debug\net5.0\Ex05FibonacciSequenceSum.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\bin\Debug\net5.0\Ex05FibonacciSequenceSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\bin\Debug\net5.0\Ex05FibonacciSequenceSum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\obj\Debug\net5.0\Ex05FibonacciSequenceSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\obj\Debug\net5.0\Ex05FibonacciSequenceSum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\obj\Debug\net5.0\Ex05FibonacciSequenceSum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\obj\Debug\net5.0\Ex05FibonacciSequenceSum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\obj\Debug\net5.0\Ex05FibonacciSequenceSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\obj\Debug\net5.0\ref\Ex05FibonacciSequenceSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\obj\Debug\net5.0\Ex05FibonacciSequenceSum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\obj\Debug\net5.0\Ex05FibonacciSequenceSum.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\obj\Debug\net5.0\Ex05FibonacciSequenceSum.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05FibonacciSequenceSum\obj\Debug\net5.0\refint\Ex05FibonacciSequenceSum.dll

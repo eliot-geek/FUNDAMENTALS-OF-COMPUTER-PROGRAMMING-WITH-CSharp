@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\bin\Debug\net5.0\Ex04PossibleCardStandDesk.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\bin\Debug\net5.0\Ex04PossibleCardStandDesk.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\bin\Debug\net5.0\Ex04PossibleCardStandDesk.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\bin\Debug\net5.0\Ex04PossibleCardStandDesk.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\bin\Debug\net5.0\Ex04PossibleCardStandDesk.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\bin\Debug\net5.0\Ex04PossibleCardStandDesk.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\obj\Debug\net5.0\Ex04PossibleCardStandDesk.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\obj\Debug\net5.0\Ex04PossibleCardStandDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\obj\Debug\net5.0\Ex04PossibleCardStandDesk.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\obj\Debug\net5.0\Ex04PossibleCardStandDesk.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\obj\Debug\net5.0\Ex04PossibleCardStandDesk.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\obj\Debug\net5.0\Ex04PossibleCardStandDesk.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\obj\Debug\net5.0\ref\Ex04PossibleCardStandDesk.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\obj\Debug\net5.0\Ex04PossibleCardStandDesk.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\obj\Debug\net5.0\Ex04PossibleCardStandDesk.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04PossibleCardStandDesk\obj\Debug\net5.0\refint\Ex04PossibleCardStandDesk.dll
