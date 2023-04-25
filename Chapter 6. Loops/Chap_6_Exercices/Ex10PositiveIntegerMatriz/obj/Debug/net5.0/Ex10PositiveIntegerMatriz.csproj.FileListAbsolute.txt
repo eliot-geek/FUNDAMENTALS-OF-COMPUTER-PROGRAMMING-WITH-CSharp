@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\bin\Debug\net5.0\Ex10PositiveIntegerMatriz.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\bin\Debug\net5.0\Ex10PositiveIntegerMatriz.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\bin\Debug\net5.0\Ex10PositiveIntegerMatriz.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\bin\Debug\net5.0\Ex10PositiveIntegerMatriz.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\bin\Debug\net5.0\Ex10PositiveIntegerMatriz.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\bin\Debug\net5.0\Ex10PositiveIntegerMatriz.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\obj\Debug\net5.0\Ex10PositiveIntegerMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\obj\Debug\net5.0\Ex10PositiveIntegerMatriz.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\obj\Debug\net5.0\Ex10PositiveIntegerMatriz.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\obj\Debug\net5.0\Ex10PositiveIntegerMatriz.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\obj\Debug\net5.0\Ex10PositiveIntegerMatriz.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\obj\Debug\net5.0\ref\Ex10PositiveIntegerMatriz.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\obj\Debug\net5.0\Ex10PositiveIntegerMatriz.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\obj\Debug\net5.0\Ex10PositiveIntegerMatriz.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\obj\Debug\net5.0\Ex10PositiveIntegerMatriz.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatriz\obj\Debug\net5.0\refint\Ex10PositiveIntegerMatriz.dll

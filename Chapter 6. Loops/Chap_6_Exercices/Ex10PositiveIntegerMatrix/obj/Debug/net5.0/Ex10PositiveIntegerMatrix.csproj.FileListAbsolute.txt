@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\bin\Debug\net5.0\Ex10PositiveIntegerMatrix.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\bin\Debug\net5.0\Ex10PositiveIntegerMatrix.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\bin\Debug\net5.0\Ex10PositiveIntegerMatrix.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\bin\Debug\net5.0\Ex10PositiveIntegerMatrix.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\bin\Debug\net5.0\Ex10PositiveIntegerMatrix.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\bin\Debug\net5.0\Ex10PositiveIntegerMatrix.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\obj\Debug\net5.0\Ex10PositiveIntegerMatrix.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\obj\Debug\net5.0\Ex10PositiveIntegerMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\obj\Debug\net5.0\Ex10PositiveIntegerMatrix.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\obj\Debug\net5.0\Ex10PositiveIntegerMatrix.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\obj\Debug\net5.0\Ex10PositiveIntegerMatrix.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\obj\Debug\net5.0\Ex10PositiveIntegerMatrix.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\obj\Debug\net5.0\ref\Ex10PositiveIntegerMatrix.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\obj\Debug\net5.0\Ex10PositiveIntegerMatrix.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\obj\Debug\net5.0\Ex10PositiveIntegerMatrix.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10PositiveIntegerMatrix\obj\Debug\net5.0\refint\Ex10PositiveIntegerMatrix.dll

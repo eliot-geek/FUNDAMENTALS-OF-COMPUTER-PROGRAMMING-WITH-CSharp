@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\bin\Debug\net5.0\Ex11HowZerosFactorialEnds.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\bin\Debug\net5.0\Ex11HowZerosFactorialEnds.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\bin\Debug\net5.0\Ex11HowZerosFactorialEnds.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\bin\Debug\net5.0\Ex11HowZerosFactorialEnds.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\bin\Debug\net5.0\Ex11HowZerosFactorialEnds.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\bin\Debug\net5.0\Ex11HowZerosFactorialEnds.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\obj\Debug\net5.0\Ex11HowZerosFactorialEnds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\obj\Debug\net5.0\Ex11HowZerosFactorialEnds.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\obj\Debug\net5.0\Ex11HowZerosFactorialEnds.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\obj\Debug\net5.0\Ex11HowZerosFactorialEnds.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\obj\Debug\net5.0\Ex11HowZerosFactorialEnds.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\obj\Debug\net5.0\ref\Ex11HowZerosFactorialEnds.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\obj\Debug\net5.0\Ex11HowZerosFactorialEnds.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\obj\Debug\net5.0\Ex11HowZerosFactorialEnds.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\obj\Debug\net5.0\Ex11HowZerosFactorialEnds.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11HowZerosFactorialEnds\obj\Debug\net5.0\refint\Ex11HowZerosFactorialEnds.dll
