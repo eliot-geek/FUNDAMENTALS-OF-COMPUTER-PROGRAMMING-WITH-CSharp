@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\bin\Debug\net5.0\Ex17GreatComDivLeaComMult.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\bin\Debug\net5.0\Ex17GreatComDivLeaComMult.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\bin\Debug\net5.0\Ex17GreatComDivLeaComMult.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\bin\Debug\net5.0\Ex17GreatComDivLeaComMult.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\bin\Debug\net5.0\Ex17GreatComDivLeaComMult.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\bin\Debug\net5.0\Ex17GreatComDivLeaComMult.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\obj\Debug\net5.0\Ex17GreatComDivLeaComMult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\obj\Debug\net5.0\Ex17GreatComDivLeaComMult.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\obj\Debug\net5.0\Ex17GreatComDivLeaComMult.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\obj\Debug\net5.0\Ex17GreatComDivLeaComMult.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\obj\Debug\net5.0\Ex17GreatComDivLeaComMult.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\obj\Debug\net5.0\ref\Ex17GreatComDivLeaComMult.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\obj\Debug\net5.0\Ex17GreatComDivLeaComMult.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\obj\Debug\net5.0\Ex17GreatComDivLeaComMult.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\obj\Debug\net5.0\Ex17GreatComDivLeaComMult.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex17GreatComDivLeaComMult\obj\Debug\net5.0\refint\Ex17GreatComDivLeaComMult.dll

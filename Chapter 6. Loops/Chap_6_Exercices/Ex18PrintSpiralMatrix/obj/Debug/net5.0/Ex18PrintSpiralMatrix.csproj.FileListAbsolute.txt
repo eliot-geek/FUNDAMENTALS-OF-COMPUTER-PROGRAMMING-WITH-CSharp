@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\bin\Debug\net5.0\Ex18PrintSpiralMatrix.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\bin\Debug\net5.0\Ex18PrintSpiralMatrix.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\bin\Debug\net5.0\Ex18PrintSpiralMatrix.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\bin\Debug\net5.0\Ex18PrintSpiralMatrix.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\bin\Debug\net5.0\Ex18PrintSpiralMatrix.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\bin\Debug\net5.0\Ex18PrintSpiralMatrix.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\obj\Debug\net5.0\Ex18PrintSpiralMatrix.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\obj\Debug\net5.0\Ex18PrintSpiralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\obj\Debug\net5.0\Ex18PrintSpiralMatrix.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\obj\Debug\net5.0\Ex18PrintSpiralMatrix.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\obj\Debug\net5.0\Ex18PrintSpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\obj\Debug\net5.0\Ex18PrintSpiralMatrix.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\obj\Debug\net5.0\ref\Ex18PrintSpiralMatrix.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\obj\Debug\net5.0\Ex18PrintSpiralMatrix.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\obj\Debug\net5.0\Ex18PrintSpiralMatrix.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex18PrintSpiralMatrix\obj\Debug\net5.0\refint\Ex18PrintSpiralMatrix.dll

@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\bin\Debug\net5.0\Ex19TrailingZeroesInN!.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\bin\Debug\net5.0\Ex19TrailingZeroesInN!.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\bin\Debug\net5.0\Ex19TrailingZeroesInN!.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\bin\Debug\net5.0\Ex19TrailingZeroesInN!.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\bin\Debug\net5.0\Ex19TrailingZeroesInN!.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\bin\Debug\net5.0\Ex19TrailingZeroesInN!.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\obj\Debug\net5.0\Ex19TrailingZeroesInN!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\obj\Debug\net5.0\Ex19TrailingZeroesInN!.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\obj\Debug\net5.0\Ex19TrailingZeroesInN!.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\obj\Debug\net5.0\Ex19TrailingZeroesInN!.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\obj\Debug\net5.0\Ex19TrailingZeroesInN!.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\obj\Debug\net5.0\ref\Ex19TrailingZeroesInN!.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\obj\Debug\net5.0\Ex19TrailingZeroesInN!.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\obj\Debug\net5.0\Ex19TrailingZeroesInN!.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\obj\Debug\net5.0\Ex19TrailingZeroesInN!.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19TrailingZeroesInN!\obj\Debug\net5.0\refint\Ex19TrailingZeroesInN!.dll
