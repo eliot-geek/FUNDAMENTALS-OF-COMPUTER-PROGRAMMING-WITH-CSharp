@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\bin\Debug\net5.0\Ex09CalculatesSumFraction.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\bin\Debug\net5.0\Ex09CalculatesSumFraction.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\bin\Debug\net5.0\Ex09CalculatesSumFraction.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\bin\Debug\net5.0\Ex09CalculatesSumFraction.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\bin\Debug\net5.0\Ex09CalculatesSumFraction.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\bin\Debug\net5.0\Ex09CalculatesSumFraction.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\obj\Debug\net5.0\Ex09CalculatesSumFraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\obj\Debug\net5.0\Ex09CalculatesSumFraction.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\obj\Debug\net5.0\Ex09CalculatesSumFraction.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\obj\Debug\net5.0\Ex09CalculatesSumFraction.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\obj\Debug\net5.0\Ex09CalculatesSumFraction.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\obj\Debug\net5.0\ref\Ex09CalculatesSumFraction.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\obj\Debug\net5.0\Ex09CalculatesSumFraction.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\obj\Debug\net5.0\Ex09CalculatesSumFraction.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\obj\Debug\net5.0\Ex09CalculatesSumFraction.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09CalculatesSumFraction\obj\Debug\net5.0\refint\Ex09CalculatesSumFraction.dll

@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\bin\Debug\net5.0\Ex07FractOfFactorialsMult.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\bin\Debug\net5.0\Ex07FractOfFactorialsMult.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\bin\Debug\net5.0\Ex07FractOfFactorialsMult.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\bin\Debug\net5.0\Ex07FractOfFactorialsMult.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\bin\Debug\net5.0\Ex07FractOfFactorialsMult.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\bin\Debug\net5.0\Ex07FractOfFactorialsMult.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\obj\Debug\net5.0\Ex07FractOfFactorialsMult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\obj\Debug\net5.0\Ex07FractOfFactorialsMult.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\obj\Debug\net5.0\Ex07FractOfFactorialsMult.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\obj\Debug\net5.0\Ex07FractOfFactorialsMult.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\obj\Debug\net5.0\Ex07FractOfFactorialsMult.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\obj\Debug\net5.0\ref\Ex07FractOfFactorialsMult.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\obj\Debug\net5.0\Ex07FractOfFactorialsMult.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\obj\Debug\net5.0\Ex07FractOfFactorialsMult.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\obj\Debug\net5.0\Ex07FractOfFactorialsMult.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07FractOfFactorialsMult\obj\Debug\net5.0\refint\Ex07FractOfFactorialsMult.dll
