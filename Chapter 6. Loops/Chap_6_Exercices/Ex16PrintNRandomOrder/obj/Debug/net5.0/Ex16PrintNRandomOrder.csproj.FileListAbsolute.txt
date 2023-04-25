@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\bin\Debug\net5.0\Ex16PrintNRandomOrder.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\bin\Debug\net5.0\Ex16PrintNRandomOrder.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\bin\Debug\net5.0\Ex16PrintNRandomOrder.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\bin\Debug\net5.0\Ex16PrintNRandomOrder.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\bin\Debug\net5.0\Ex16PrintNRandomOrder.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\bin\Debug\net5.0\Ex16PrintNRandomOrder.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\obj\Debug\net5.0\Ex16PrintNRandomOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\obj\Debug\net5.0\Ex16PrintNRandomOrder.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\obj\Debug\net5.0\Ex16PrintNRandomOrder.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\obj\Debug\net5.0\Ex16PrintNRandomOrder.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\obj\Debug\net5.0\Ex16PrintNRandomOrder.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\obj\Debug\net5.0\ref\Ex16PrintNRandomOrder.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\obj\Debug\net5.0\Ex16PrintNRandomOrder.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\obj\Debug\net5.0\Ex16PrintNRandomOrder.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\obj\Debug\net5.0\Ex16PrintNRandomOrder.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16PrintNRandomOrder\obj\Debug\net5.0\refint\Ex16PrintNRandomOrder.dll
