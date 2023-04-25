@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\bin\Debug\net5.0\Ex14DecimalToHexadecimal.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\bin\Debug\net5.0\Ex14DecimalToHexadecimal.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\bin\Debug\net5.0\Ex14DecimalToHexadecimal.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\bin\Debug\net5.0\Ex14DecimalToHexadecimal.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\bin\Debug\net5.0\Ex14DecimalToHexadecimal.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\bin\Debug\net5.0\Ex14DecimalToHexadecimal.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\obj\Debug\net5.0\Ex14DecimalToHexadecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\obj\Debug\net5.0\Ex14DecimalToHexadecimal.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\obj\Debug\net5.0\Ex14DecimalToHexadecimal.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\obj\Debug\net5.0\Ex14DecimalToHexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\obj\Debug\net5.0\Ex14DecimalToHexadecimal.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\obj\Debug\net5.0\ref\Ex14DecimalToHexadecimal.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\obj\Debug\net5.0\Ex14DecimalToHexadecimal.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\obj\Debug\net5.0\Ex14DecimalToHexadecimal.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\obj\Debug\net5.0\Ex14DecimalToHexadecimal.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14DecimalToHexadecimal\obj\Debug\net5.0\refint\Ex14DecimalToHexadecimal.dll

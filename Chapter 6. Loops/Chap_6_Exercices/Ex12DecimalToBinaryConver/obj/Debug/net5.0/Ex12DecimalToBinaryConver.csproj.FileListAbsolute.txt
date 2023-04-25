@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\bin\Debug\net5.0\Ex12DecimalToBinaryConver.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\bin\Debug\net5.0\Ex12DecimalToBinaryConver.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\bin\Debug\net5.0\Ex12DecimalToBinaryConver.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\bin\Debug\net5.0\Ex12DecimalToBinaryConver.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\bin\Debug\net5.0\Ex12DecimalToBinaryConver.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\bin\Debug\net5.0\Ex12DecimalToBinaryConver.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\obj\Debug\net5.0\Ex12DecimalToBinaryConver.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\obj\Debug\net5.0\Ex12DecimalToBinaryConver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\obj\Debug\net5.0\Ex12DecimalToBinaryConver.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\obj\Debug\net5.0\Ex12DecimalToBinaryConver.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\obj\Debug\net5.0\Ex12DecimalToBinaryConver.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\obj\Debug\net5.0\Ex12DecimalToBinaryConver.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\obj\Debug\net5.0\ref\Ex12DecimalToBinaryConver.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\obj\Debug\net5.0\Ex12DecimalToBinaryConver.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\obj\Debug\net5.0\Ex12DecimalToBinaryConver.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex12DecimalToBinaryConver\obj\Debug\net5.0\refint\Ex12DecimalToBinaryConver.dll
