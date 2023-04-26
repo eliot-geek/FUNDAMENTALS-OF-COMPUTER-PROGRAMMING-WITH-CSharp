@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Less03SymmetricArrayCheck/1.0.0": {
+        "runtime": {
+          "Less03SymmetricArrayCheck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less03SymmetricArrayCheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\bin\Debug\net5.0\Less03SymmetricArrayCheck.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\bin\Debug\net5.0\Less03SymmetricArrayCheck.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\bin\Debug\net5.0\Less03SymmetricArrayCheck.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\bin\Debug\net5.0\Less03SymmetricArrayCheck.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\bin\Debug\net5.0\Less03SymmetricArrayCheck.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\bin\Debug\net5.0\Less03SymmetricArrayCheck.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\obj\Debug\net5.0\Less03SymmetricArrayCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\obj\Debug\net5.0\Less03SymmetricArrayCheck.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\obj\Debug\net5.0\Less03SymmetricArrayCheck.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\obj\Debug\net5.0\Less03SymmetricArrayCheck.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\obj\Debug\net5.0\Less03SymmetricArrayCheck.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\obj\Debug\net5.0\ref\Less03SymmetricArrayCheck.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\obj\Debug\net5.0\Less03SymmetricArrayCheck.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\obj\Debug\net5.0\Less03SymmetricArrayCheck.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\obj\Debug\net5.0\Less03SymmetricArrayCheck.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less03SymmetricArrayCheck\obj\Debug\net5.0\refint\Less03SymmetricArrayCheck.dll
