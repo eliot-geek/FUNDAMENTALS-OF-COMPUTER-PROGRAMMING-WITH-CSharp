@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\bin\Debug\net5.0\Less02ArrayFromConsole.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\bin\Debug\net5.0\Less02ArrayFromConsole.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\bin\Debug\net5.0\Less02ArrayFromConsole.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\bin\Debug\net5.0\Less02ArrayFromConsole.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\bin\Debug\net5.0\Less02ArrayFromConsole.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\bin\Debug\net5.0\Less02ArrayFromConsole.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\obj\Debug\net5.0\Less02ArrayFromConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\obj\Debug\net5.0\Less02ArrayFromConsole.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\obj\Debug\net5.0\Less02ArrayFromConsole.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\obj\Debug\net5.0\Less02ArrayFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\obj\Debug\net5.0\Less02ArrayFromConsole.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\obj\Debug\net5.0\ref\Less02ArrayFromConsole.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\obj\Debug\net5.0\Less02ArrayFromConsole.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\obj\Debug\net5.0\Less02ArrayFromConsole.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\obj\Debug\net5.0\Less02ArrayFromConsole.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less02ArrayFromConsole\obj\Debug\net5.0\refint\Less02ArrayFromConsole.dll
