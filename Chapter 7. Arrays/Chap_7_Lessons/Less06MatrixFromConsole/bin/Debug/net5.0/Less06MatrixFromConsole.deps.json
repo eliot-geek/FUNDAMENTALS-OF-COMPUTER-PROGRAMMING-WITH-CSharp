@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Less06MatrixFromConsole/1.0.0": {
+        "runtime": {
+          "Less06MatrixFromConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Less06MatrixFromConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

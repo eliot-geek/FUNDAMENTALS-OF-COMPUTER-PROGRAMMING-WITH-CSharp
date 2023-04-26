@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\bin\Debug\net5.0\Less06MatrixFromConsole.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\bin\Debug\net5.0\Less06MatrixFromConsole.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\bin\Debug\net5.0\Less06MatrixFromConsole.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\bin\Debug\net5.0\Less06MatrixFromConsole.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\bin\Debug\net5.0\Less06MatrixFromConsole.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\bin\Debug\net5.0\Less06MatrixFromConsole.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\obj\Debug\net5.0\Less06MatrixFromConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\obj\Debug\net5.0\Less06MatrixFromConsole.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\obj\Debug\net5.0\Less06MatrixFromConsole.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\obj\Debug\net5.0\Less06MatrixFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\obj\Debug\net5.0\Less06MatrixFromConsole.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\obj\Debug\net5.0\ref\Less06MatrixFromConsole.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\obj\Debug\net5.0\Less06MatrixFromConsole.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\obj\Debug\net5.0\Less06MatrixFromConsole.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\obj\Debug\net5.0\Less06MatrixFromConsole.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less06MatrixFromConsole\obj\Debug\net5.0\refint\Less06MatrixFromConsole.dll
