@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\bin\Debug\net5.0\Ex25LargestAreaOfEqualNum.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\bin\Debug\net5.0\Ex25LargestAreaOfEqualNum.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\bin\Debug\net5.0\Ex25LargestAreaOfEqualNum.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\bin\Debug\net5.0\Ex25LargestAreaOfEqualNum.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\bin\Debug\net5.0\Ex25LargestAreaOfEqualNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\bin\Debug\net5.0\Ex25LargestAreaOfEqualNum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\obj\Debug\net5.0\Ex25LargestAreaOfEqualNum.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\obj\Debug\net5.0\Ex25LargestAreaOfEqualNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\obj\Debug\net5.0\Ex25LargestAreaOfEqualNum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\obj\Debug\net5.0\Ex25LargestAreaOfEqualNum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\obj\Debug\net5.0\Ex25LargestAreaOfEqualNum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\obj\Debug\net5.0\Ex25LargestAreaOfEqualNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\obj\Debug\net5.0\refint\Ex25LargestAreaOfEqualNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\obj\Debug\net5.0\Ex25LargestAreaOfEqualNum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\obj\Debug\net5.0\Ex25LargestAreaOfEqualNum.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaOfEqualNum\obj\Debug\net5.0\ref\Ex25LargestAreaOfEqualNum.dll

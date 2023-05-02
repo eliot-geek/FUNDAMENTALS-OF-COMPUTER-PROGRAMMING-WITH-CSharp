@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\bin\Debug\net6.0\Ex25LargestAreaInMatr.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\bin\Debug\net6.0\Ex25LargestAreaInMatr.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\bin\Debug\net6.0\Ex25LargestAreaInMatr.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\bin\Debug\net6.0\Ex25LargestAreaInMatr.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\bin\Debug\net6.0\Ex25LargestAreaInMatr.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\obj\Debug\net6.0\Ex25LargestAreaInMatr.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\obj\Debug\net6.0\Ex25LargestAreaInMatr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\obj\Debug\net6.0\Ex25LargestAreaInMatr.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\obj\Debug\net6.0\Ex25LargestAreaInMatr.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\obj\Debug\net6.0\Ex25LargestAreaInMatr.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\obj\Debug\net6.0\Ex25LargestAreaInMatr.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\obj\Debug\net6.0\refint\Ex25LargestAreaInMatr.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\obj\Debug\net6.0\Ex25LargestAreaInMatr.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\obj\Debug\net6.0\Ex25LargestAreaInMatr.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex25LargestAreaInMatr\obj\Debug\net6.0\ref\Ex25LargestAreaInMatr.dll

@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\bin\Debug\net5.0\Ex26PrintsAllPermutations.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\bin\Debug\net5.0\Ex26PrintsAllPermutations.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\bin\Debug\net5.0\Ex26PrintsAllPermutations.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\bin\Debug\net5.0\Ex26PrintsAllPermutations.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\bin\Debug\net5.0\Ex26PrintsAllPermutations.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\bin\Debug\net5.0\Ex26PrintsAllPermutations.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\obj\Debug\net5.0\Ex26PrintsAllPermutations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\obj\Debug\net5.0\Ex26PrintsAllPermutations.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\obj\Debug\net5.0\Ex26PrintsAllPermutations.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\obj\Debug\net5.0\Ex26PrintsAllPermutations.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\obj\Debug\net5.0\Ex26PrintsAllPermutations.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\obj\Debug\net5.0\ref\Ex26PrintsAllPermutations.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\obj\Debug\net5.0\Ex26PrintsAllPermutations.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\obj\Debug\net5.0\Ex26PrintsAllPermutations.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\obj\Debug\net5.0\Ex26PrintsAllPermutations.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex26PrintsAllPermutations\obj\Debug\net5.0\refint\Ex26PrintsAllPermutations.dll
