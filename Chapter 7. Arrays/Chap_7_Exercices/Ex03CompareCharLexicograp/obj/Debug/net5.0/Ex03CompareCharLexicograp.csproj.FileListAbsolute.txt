@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\bin\Debug\net5.0\Ex03CompareCharLexicograp.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\bin\Debug\net5.0\Ex03CompareCharLexicograp.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\bin\Debug\net5.0\Ex03CompareCharLexicograp.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\bin\Debug\net5.0\Ex03CompareCharLexicograp.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\bin\Debug\net5.0\Ex03CompareCharLexicograp.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\bin\Debug\net5.0\Ex03CompareCharLexicograp.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\obj\Debug\net5.0\Ex03CompareCharLexicograp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\obj\Debug\net5.0\Ex03CompareCharLexicograp.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\obj\Debug\net5.0\Ex03CompareCharLexicograp.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\obj\Debug\net5.0\Ex03CompareCharLexicograp.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\obj\Debug\net5.0\Ex03CompareCharLexicograp.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\obj\Debug\net5.0\ref\Ex03CompareCharLexicograp.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\obj\Debug\net5.0\Ex03CompareCharLexicograp.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\obj\Debug\net5.0\Ex03CompareCharLexicograp.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\obj\Debug\net5.0\Ex03CompareCharLexicograp.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03CompareCharLexicograp\obj\Debug\net5.0\refint\Ex03CompareCharLexicograp.dll

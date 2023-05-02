@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\bin\Debug\net5.0\Ex02CheckTwoArraysEqual.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\bin\Debug\net5.0\Ex02CheckTwoArraysEqual.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\bin\Debug\net5.0\Ex02CheckTwoArraysEqual.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\bin\Debug\net5.0\Ex02CheckTwoArraysEqual.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\bin\Debug\net5.0\Ex02CheckTwoArraysEqual.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\bin\Debug\net5.0\Ex02CheckTwoArraysEqual.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\obj\Debug\net5.0\Ex02CheckTwoArraysEqual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\obj\Debug\net5.0\Ex02CheckTwoArraysEqual.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\obj\Debug\net5.0\Ex02CheckTwoArraysEqual.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\obj\Debug\net5.0\Ex02CheckTwoArraysEqual.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\obj\Debug\net5.0\Ex02CheckTwoArraysEqual.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\obj\Debug\net5.0\ref\Ex02CheckTwoArraysEqual.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\obj\Debug\net5.0\Ex02CheckTwoArraysEqual.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\obj\Debug\net5.0\Ex02CheckTwoArraysEqual.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\obj\Debug\net5.0\Ex02CheckTwoArraysEqual.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex02CheckTwoArraysEqual\obj\Debug\net5.0\refint\Ex02CheckTwoArraysEqual.dll

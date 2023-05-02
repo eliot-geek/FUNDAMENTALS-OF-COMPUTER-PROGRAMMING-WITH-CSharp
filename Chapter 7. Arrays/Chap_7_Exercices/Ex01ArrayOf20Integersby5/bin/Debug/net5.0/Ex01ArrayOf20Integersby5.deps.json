@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex01ArrayOf20Integersby5/1.0.0": {
+        "runtime": {
+          "Ex01ArrayOf20Integersby5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex01ArrayOf20Integersby5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\bin\Debug\net5.0\Ex01ArrayOf20Integersby5.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\bin\Debug\net5.0\Ex01ArrayOf20Integersby5.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\bin\Debug\net5.0\Ex01ArrayOf20Integersby5.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\bin\Debug\net5.0\Ex01ArrayOf20Integersby5.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\bin\Debug\net5.0\Ex01ArrayOf20Integersby5.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\bin\Debug\net5.0\Ex01ArrayOf20Integersby5.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\obj\Debug\net5.0\Ex01ArrayOf20Integersby5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\obj\Debug\net5.0\Ex01ArrayOf20Integersby5.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\obj\Debug\net5.0\Ex01ArrayOf20Integersby5.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\obj\Debug\net5.0\Ex01ArrayOf20Integersby5.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\obj\Debug\net5.0\Ex01ArrayOf20Integersby5.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\obj\Debug\net5.0\ref\Ex01ArrayOf20Integersby5.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\obj\Debug\net5.0\Ex01ArrayOf20Integersby5.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\obj\Debug\net5.0\Ex01ArrayOf20Integersby5.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\obj\Debug\net5.0\Ex01ArrayOf20Integersby5.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex01ArrayOf20Integersby5\obj\Debug\net5.0\refint\Ex01ArrayOf20Integersby5.dll
