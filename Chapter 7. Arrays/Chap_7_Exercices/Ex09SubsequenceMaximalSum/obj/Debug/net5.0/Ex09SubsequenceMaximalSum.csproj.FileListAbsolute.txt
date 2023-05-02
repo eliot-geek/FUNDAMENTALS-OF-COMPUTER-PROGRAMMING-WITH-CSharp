@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\bin\Debug\net5.0\Ex09SubsequenceMaximalSum.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\bin\Debug\net5.0\Ex09SubsequenceMaximalSum.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\bin\Debug\net5.0\Ex09SubsequenceMaximalSum.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\bin\Debug\net5.0\Ex09SubsequenceMaximalSum.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\bin\Debug\net5.0\Ex09SubsequenceMaximalSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\bin\Debug\net5.0\Ex09SubsequenceMaximalSum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\obj\Debug\net5.0\Ex09SubsequenceMaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\obj\Debug\net5.0\Ex09SubsequenceMaximalSum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\obj\Debug\net5.0\Ex09SubsequenceMaximalSum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\obj\Debug\net5.0\Ex09SubsequenceMaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\obj\Debug\net5.0\Ex09SubsequenceMaximalSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\obj\Debug\net5.0\ref\Ex09SubsequenceMaximalSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\obj\Debug\net5.0\Ex09SubsequenceMaximalSum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\obj\Debug\net5.0\Ex09SubsequenceMaximalSum.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\obj\Debug\net5.0\Ex09SubsequenceMaximalSum.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09SubsequenceMaximalSum\obj\Debug\net5.0\refint\Ex09SubsequenceMaximalSum.dll

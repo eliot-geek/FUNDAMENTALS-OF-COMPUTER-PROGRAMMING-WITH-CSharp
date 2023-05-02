@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex07ConseElemWithMaxSum/1.0.0": {
+        "runtime": {
+          "Ex07ConseElemWithMaxSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex07ConseElemWithMaxSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
