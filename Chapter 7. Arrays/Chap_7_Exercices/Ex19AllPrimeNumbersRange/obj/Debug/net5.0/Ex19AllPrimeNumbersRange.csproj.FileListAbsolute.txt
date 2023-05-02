@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\bin\Debug\net5.0\Ex19AllPrimeNumbersRange.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\bin\Debug\net5.0\Ex19AllPrimeNumbersRange.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\bin\Debug\net5.0\Ex19AllPrimeNumbersRange.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\bin\Debug\net5.0\Ex19AllPrimeNumbersRange.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\bin\Debug\net5.0\Ex19AllPrimeNumbersRange.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\bin\Debug\net5.0\Ex19AllPrimeNumbersRange.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\obj\Debug\net5.0\Ex19AllPrimeNumbersRange.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\obj\Debug\net5.0\Ex19AllPrimeNumbersRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\obj\Debug\net5.0\Ex19AllPrimeNumbersRange.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\obj\Debug\net5.0\Ex19AllPrimeNumbersRange.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\obj\Debug\net5.0\Ex19AllPrimeNumbersRange.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\obj\Debug\net5.0\Ex19AllPrimeNumbersRange.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\obj\Debug\net5.0\ref\Ex19AllPrimeNumbersRange.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\obj\Debug\net5.0\Ex19AllPrimeNumbersRange.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\obj\Debug\net5.0\Ex19AllPrimeNumbersRange.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex19AllPrimeNumbersRange\obj\Debug\net5.0\refint\Ex19AllPrimeNumbersRange.dll

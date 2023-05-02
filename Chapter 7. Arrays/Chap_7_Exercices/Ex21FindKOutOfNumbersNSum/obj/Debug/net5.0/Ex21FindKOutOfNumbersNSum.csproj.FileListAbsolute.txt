@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\bin\Debug\net5.0\Ex21FindKOutOfNumbersNSum.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\bin\Debug\net5.0\Ex21FindKOutOfNumbersNSum.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\bin\Debug\net5.0\Ex21FindKOutOfNumbersNSum.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\bin\Debug\net5.0\Ex21FindKOutOfNumbersNSum.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\bin\Debug\net5.0\Ex21FindKOutOfNumbersNSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\bin\Debug\net5.0\Ex21FindKOutOfNumbersNSum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\obj\Debug\net5.0\Ex21FindKOutOfNumbersNSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\obj\Debug\net5.0\Ex21FindKOutOfNumbersNSum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\obj\Debug\net5.0\Ex21FindKOutOfNumbersNSum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\obj\Debug\net5.0\Ex21FindKOutOfNumbersNSum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\obj\Debug\net5.0\Ex21FindKOutOfNumbersNSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\obj\Debug\net5.0\ref\Ex21FindKOutOfNumbersNSum.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\obj\Debug\net5.0\Ex21FindKOutOfNumbersNSum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\obj\Debug\net5.0\Ex21FindKOutOfNumbersNSum.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\obj\Debug\net5.0\Ex21FindKOutOfNumbersNSum.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex21FindKOutOfNumbersNSum\obj\Debug\net5.0\refint\Ex21FindKOutOfNumbersNSum.dll

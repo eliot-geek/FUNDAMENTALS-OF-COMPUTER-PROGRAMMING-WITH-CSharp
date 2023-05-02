@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\bin\Debug\net5.0\Ex20SubsetOfGivenArray.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\bin\Debug\net5.0\Ex20SubsetOfGivenArray.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\bin\Debug\net5.0\Ex20SubsetOfGivenArray.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\bin\Debug\net5.0\Ex20SubsetOfGivenArray.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\bin\Debug\net5.0\Ex20SubsetOfGivenArray.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\bin\Debug\net5.0\Ex20SubsetOfGivenArray.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\obj\Debug\net5.0\Ex20SubsetOfGivenArray.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\obj\Debug\net5.0\Ex20SubsetOfGivenArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\obj\Debug\net5.0\Ex20SubsetOfGivenArray.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\obj\Debug\net5.0\Ex20SubsetOfGivenArray.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\obj\Debug\net5.0\Ex20SubsetOfGivenArray.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\obj\Debug\net5.0\Ex20SubsetOfGivenArray.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\obj\Debug\net5.0\ref\Ex20SubsetOfGivenArray.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\obj\Debug\net5.0\Ex20SubsetOfGivenArray.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\obj\Debug\net5.0\Ex20SubsetOfGivenArray.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex20SubsetOfGivenArray\obj\Debug\net5.0\refint\Ex20SubsetOfGivenArray.dll
