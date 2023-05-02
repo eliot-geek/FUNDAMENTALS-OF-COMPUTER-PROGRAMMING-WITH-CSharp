@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\bin\Debug\net5.0\Ex22RemovMinNumbOfElemnts.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\bin\Debug\net5.0\Ex22RemovMinNumbOfElemnts.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\bin\Debug\net5.0\Ex22RemovMinNumbOfElemnts.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\bin\Debug\net5.0\Ex22RemovMinNumbOfElemnts.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\bin\Debug\net5.0\Ex22RemovMinNumbOfElemnts.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\bin\Debug\net5.0\Ex22RemovMinNumbOfElemnts.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\obj\Debug\net5.0\Ex22RemovMinNumbOfElemnts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\obj\Debug\net5.0\Ex22RemovMinNumbOfElemnts.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\obj\Debug\net5.0\Ex22RemovMinNumbOfElemnts.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\obj\Debug\net5.0\Ex22RemovMinNumbOfElemnts.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\obj\Debug\net5.0\Ex22RemovMinNumbOfElemnts.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\obj\Debug\net5.0\ref\Ex22RemovMinNumbOfElemnts.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\obj\Debug\net5.0\Ex22RemovMinNumbOfElemnts.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\obj\Debug\net5.0\Ex22RemovMinNumbOfElemnts.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\obj\Debug\net5.0\Ex22RemovMinNumbOfElemnts.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex22RemovMinNumbOfElemnts\obj\Debug\net5.0\refint\Ex22RemovMinNumbOfElemnts.dll

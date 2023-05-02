@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\bin\Debug\net5.0\Ex24AllCombinOfKElements.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\bin\Debug\net5.0\Ex24AllCombinOfKElements.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\bin\Debug\net5.0\Ex24AllCombinOfKElements.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\bin\Debug\net5.0\Ex24AllCombinOfKElements.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\bin\Debug\net5.0\Ex24AllCombinOfKElements.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\bin\Debug\net5.0\Ex24AllCombinOfKElements.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\obj\Debug\net5.0\Ex24AllCombinOfKElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\obj\Debug\net5.0\Ex24AllCombinOfKElements.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\obj\Debug\net5.0\Ex24AllCombinOfKElements.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\obj\Debug\net5.0\Ex24AllCombinOfKElements.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\obj\Debug\net5.0\Ex24AllCombinOfKElements.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\obj\Debug\net5.0\ref\Ex24AllCombinOfKElements.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\obj\Debug\net5.0\Ex24AllCombinOfKElements.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\obj\Debug\net5.0\Ex24AllCombinOfKElements.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\obj\Debug\net5.0\Ex24AllCombinOfKElements.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex24AllCombinOfKElements\obj\Debug\net5.0\refint\Ex24AllCombinOfKElements.dll
