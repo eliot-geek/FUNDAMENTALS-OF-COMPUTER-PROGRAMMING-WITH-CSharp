@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\bin\Debug\net5.0\Ex04MaxSequenceConsecElem.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\bin\Debug\net5.0\Ex04MaxSequenceConsecElem.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\bin\Debug\net5.0\Ex04MaxSequenceConsecElem.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\bin\Debug\net5.0\Ex04MaxSequenceConsecElem.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\bin\Debug\net5.0\Ex04MaxSequenceConsecElem.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\bin\Debug\net5.0\Ex04MaxSequenceConsecElem.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\obj\Debug\net5.0\Ex04MaxSequenceConsecElem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\obj\Debug\net5.0\Ex04MaxSequenceConsecElem.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\obj\Debug\net5.0\Ex04MaxSequenceConsecElem.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\obj\Debug\net5.0\Ex04MaxSequenceConsecElem.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\obj\Debug\net5.0\Ex04MaxSequenceConsecElem.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\obj\Debug\net5.0\ref\Ex04MaxSequenceConsecElem.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\obj\Debug\net5.0\Ex04MaxSequenceConsecElem.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\obj\Debug\net5.0\Ex04MaxSequenceConsecElem.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\obj\Debug\net5.0\Ex04MaxSequenceConsecElem.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04MaxSequenceConsecElem\obj\Debug\net5.0\refint\Ex04MaxSequenceConsecElem.dll

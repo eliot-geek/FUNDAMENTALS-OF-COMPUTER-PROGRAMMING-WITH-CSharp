@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\bin\Debug\net5.0\Ex05MaxSequenceIncreasing.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\bin\Debug\net5.0\Ex05MaxSequenceIncreasing.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\bin\Debug\net5.0\Ex05MaxSequenceIncreasing.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\bin\Debug\net5.0\Ex05MaxSequenceIncreasing.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\bin\Debug\net5.0\Ex05MaxSequenceIncreasing.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\bin\Debug\net5.0\Ex05MaxSequenceIncreasing.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\obj\Debug\net5.0\Ex05MaxSequenceIncreasing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\obj\Debug\net5.0\Ex05MaxSequenceIncreasing.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\obj\Debug\net5.0\Ex05MaxSequenceIncreasing.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\obj\Debug\net5.0\Ex05MaxSequenceIncreasing.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\obj\Debug\net5.0\Ex05MaxSequenceIncreasing.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\obj\Debug\net5.0\ref\Ex05MaxSequenceIncreasing.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\obj\Debug\net5.0\Ex05MaxSequenceIncreasing.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\obj\Debug\net5.0\Ex05MaxSequenceIncreasing.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\obj\Debug\net5.0\Ex05MaxSequenceIncreasing.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05MaxSequenceIncreasing\obj\Debug\net5.0\refint\Ex05MaxSequenceIncreasing.dll
