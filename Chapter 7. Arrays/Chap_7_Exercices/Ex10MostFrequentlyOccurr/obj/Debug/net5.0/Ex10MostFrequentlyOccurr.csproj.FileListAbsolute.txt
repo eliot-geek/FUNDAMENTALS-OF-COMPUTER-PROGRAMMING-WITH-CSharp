@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\bin\Debug\net5.0\Ex10MostFrequentlyOccurr.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\bin\Debug\net5.0\Ex10MostFrequentlyOccurr.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\bin\Debug\net5.0\Ex10MostFrequentlyOccurr.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\bin\Debug\net5.0\Ex10MostFrequentlyOccurr.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\bin\Debug\net5.0\Ex10MostFrequentlyOccurr.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\bin\Debug\net5.0\Ex10MostFrequentlyOccurr.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\obj\Debug\net5.0\Ex10MostFrequentlyOccurr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\obj\Debug\net5.0\Ex10MostFrequentlyOccurr.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\obj\Debug\net5.0\Ex10MostFrequentlyOccurr.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\obj\Debug\net5.0\Ex10MostFrequentlyOccurr.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\obj\Debug\net5.0\Ex10MostFrequentlyOccurr.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\obj\Debug\net5.0\ref\Ex10MostFrequentlyOccurr.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\obj\Debug\net5.0\Ex10MostFrequentlyOccurr.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\obj\Debug\net5.0\Ex10MostFrequentlyOccurr.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\obj\Debug\net5.0\Ex10MostFrequentlyOccurr.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex10MostFrequentlyOccurr\obj\Debug\net5.0\refint\Ex10MostFrequentlyOccurr.dll

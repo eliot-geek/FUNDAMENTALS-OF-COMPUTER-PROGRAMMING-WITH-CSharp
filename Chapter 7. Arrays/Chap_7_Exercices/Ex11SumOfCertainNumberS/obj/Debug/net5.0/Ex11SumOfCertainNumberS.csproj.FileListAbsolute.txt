@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\bin\Debug\net5.0\Ex11SumOfCertainNumberS.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\bin\Debug\net5.0\Ex11SumOfCertainNumberS.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\bin\Debug\net5.0\Ex11SumOfCertainNumberS.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\bin\Debug\net5.0\Ex11SumOfCertainNumberS.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\bin\Debug\net5.0\Ex11SumOfCertainNumberS.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\bin\Debug\net5.0\Ex11SumOfCertainNumberS.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\obj\Debug\net5.0\Ex11SumOfCertainNumberS.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\obj\Debug\net5.0\Ex11SumOfCertainNumberS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\obj\Debug\net5.0\Ex11SumOfCertainNumberS.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\obj\Debug\net5.0\Ex11SumOfCertainNumberS.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\obj\Debug\net5.0\Ex11SumOfCertainNumberS.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\obj\Debug\net5.0\Ex11SumOfCertainNumberS.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\obj\Debug\net5.0\ref\Ex11SumOfCertainNumberS.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\obj\Debug\net5.0\Ex11SumOfCertainNumberS.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\obj\Debug\net5.0\Ex11SumOfCertainNumberS.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex11SumOfCertainNumberS\obj\Debug\net5.0\refint\Ex11SumOfCertainNumberS.dll
