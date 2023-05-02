@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\bin\Debug\net5.0\Ex16BinarySearchSorted.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\bin\Debug\net5.0\Ex16BinarySearchSorted.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\bin\Debug\net5.0\Ex16BinarySearchSorted.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\bin\Debug\net5.0\Ex16BinarySearchSorted.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\bin\Debug\net5.0\Ex16BinarySearchSorted.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\bin\Debug\net5.0\Ex16BinarySearchSorted.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\obj\Debug\net5.0\Ex16BinarySearchSorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\obj\Debug\net5.0\Ex16BinarySearchSorted.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\obj\Debug\net5.0\Ex16BinarySearchSorted.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\obj\Debug\net5.0\Ex16BinarySearchSorted.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\obj\Debug\net5.0\Ex16BinarySearchSorted.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\obj\Debug\net5.0\ref\Ex16BinarySearchSorted.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\obj\Debug\net5.0\Ex16BinarySearchSorted.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\obj\Debug\net5.0\Ex16BinarySearchSorted.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\obj\Debug\net5.0\Ex16BinarySearchSorted.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16BinarySearchSorted\obj\Debug\net5.0\refint\Ex16BinarySearchSorted.dll
