@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex15AllLatinLetters/1.0.0": {
+        "runtime": {
+          "Ex15AllLatinLetters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex15AllLatinLetters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

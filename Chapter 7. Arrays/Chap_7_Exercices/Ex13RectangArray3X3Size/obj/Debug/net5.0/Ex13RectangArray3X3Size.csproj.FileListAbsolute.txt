@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\bin\Debug\net5.0\Ex13RectangArray3X3Size.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\bin\Debug\net5.0\Ex13RectangArray3X3Size.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\bin\Debug\net5.0\Ex13RectangArray3X3Size.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\bin\Debug\net5.0\Ex13RectangArray3X3Size.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\bin\Debug\net5.0\Ex13RectangArray3X3Size.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\bin\Debug\net5.0\Ex13RectangArray3X3Size.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\obj\Debug\net5.0\Ex13RectangArray3X3Size.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\obj\Debug\net5.0\Ex13RectangArray3X3Size.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\obj\Debug\net5.0\Ex13RectangArray3X3Size.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\obj\Debug\net5.0\Ex13RectangArray3X3Size.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\obj\Debug\net5.0\Ex13RectangArray3X3Size.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\obj\Debug\net5.0\Ex13RectangArray3X3Size.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\obj\Debug\net5.0\ref\Ex13RectangArray3X3Size.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\obj\Debug\net5.0\Ex13RectangArray3X3Size.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\obj\Debug\net5.0\Ex13RectangArray3X3Size.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex13RectangArray3X3Size\obj\Debug\net5.0\refint\Ex13RectangArray3X3Size.dll

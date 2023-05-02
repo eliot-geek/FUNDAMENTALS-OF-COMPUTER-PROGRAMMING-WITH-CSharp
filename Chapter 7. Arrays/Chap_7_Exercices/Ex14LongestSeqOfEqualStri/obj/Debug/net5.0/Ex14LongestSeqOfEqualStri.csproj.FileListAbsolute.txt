@@ -1,0 +1,16 @@
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\bin\Debug\net5.0\Ex14LongestSeqOfEqualStri.exe
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\bin\Debug\net5.0\Ex14LongestSeqOfEqualStri.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\bin\Debug\net5.0\Ex14LongestSeqOfEqualStri.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\bin\Debug\net5.0\Ex14LongestSeqOfEqualStri.runtimeconfig.dev.json
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\bin\Debug\net5.0\Ex14LongestSeqOfEqualStri.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\bin\Debug\net5.0\Ex14LongestSeqOfEqualStri.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\obj\Debug\net5.0\Ex14LongestSeqOfEqualStri.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\obj\Debug\net5.0\Ex14LongestSeqOfEqualStri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\obj\Debug\net5.0\Ex14LongestSeqOfEqualStri.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\obj\Debug\net5.0\Ex14LongestSeqOfEqualStri.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\obj\Debug\net5.0\Ex14LongestSeqOfEqualStri.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\obj\Debug\net5.0\Ex14LongestSeqOfEqualStri.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\obj\Debug\net5.0\ref\Ex14LongestSeqOfEqualStri.dll
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\obj\Debug\net5.0\Ex14LongestSeqOfEqualStri.pdb
+C:\Users\leosa\Downloads\Загрузки\CSharp\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\obj\Debug\net5.0\Ex14LongestSeqOfEqualStri.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14LongestSeqOfEqualStri\obj\Debug\net5.0\refint\Ex14LongestSeqOfEqualStri.dll
