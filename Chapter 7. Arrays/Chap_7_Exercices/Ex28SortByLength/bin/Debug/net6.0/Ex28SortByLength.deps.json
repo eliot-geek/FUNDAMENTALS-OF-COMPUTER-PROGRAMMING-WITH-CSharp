@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex28SortByLength/1.0.0": {
+        "runtime": {
+          "Ex28SortByLength.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex28SortByLength/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
