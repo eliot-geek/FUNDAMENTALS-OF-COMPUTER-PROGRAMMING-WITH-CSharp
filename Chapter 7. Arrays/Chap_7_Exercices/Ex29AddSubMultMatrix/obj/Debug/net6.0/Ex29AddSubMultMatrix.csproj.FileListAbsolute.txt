@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\bin\Debug\net6.0\Ex29AddSubMultMatrix.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\bin\Debug\net6.0\Ex29AddSubMultMatrix.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\bin\Debug\net6.0\Ex29AddSubMultMatrix.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\bin\Debug\net6.0\Ex29AddSubMultMatrix.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\bin\Debug\net6.0\Ex29AddSubMultMatrix.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\obj\Debug\net6.0\Ex29AddSubMultMatrix.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\obj\Debug\net6.0\Ex29AddSubMultMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\obj\Debug\net6.0\Ex29AddSubMultMatrix.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\obj\Debug\net6.0\Ex29AddSubMultMatrix.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\obj\Debug\net6.0\Ex29AddSubMultMatrix.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\obj\Debug\net6.0\Ex29AddSubMultMatrix.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\obj\Debug\net6.0\refint\Ex29AddSubMultMatrix.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\obj\Debug\net6.0\Ex29AddSubMultMatrix.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\obj\Debug\net6.0\Ex29AddSubMultMatrix.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex29AddSubMultMatrix\obj\Debug\net6.0\ref\Ex29AddSubMultMatrix.dll
