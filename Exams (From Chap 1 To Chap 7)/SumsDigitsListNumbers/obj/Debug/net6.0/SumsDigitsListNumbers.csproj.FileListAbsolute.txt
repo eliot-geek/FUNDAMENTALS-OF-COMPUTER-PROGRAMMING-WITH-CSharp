@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\bin\Debug\net6.0\SumsDigitsListNumbers.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\bin\Debug\net6.0\SumsDigitsListNumbers.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\bin\Debug\net6.0\SumsDigitsListNumbers.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\bin\Debug\net6.0\SumsDigitsListNumbers.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\bin\Debug\net6.0\SumsDigitsListNumbers.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\obj\Debug\net6.0\SumsDigitsListNumbers.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\obj\Debug\net6.0\SumsDigitsListNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\obj\Debug\net6.0\SumsDigitsListNumbers.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\obj\Debug\net6.0\SumsDigitsListNumbers.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\obj\Debug\net6.0\SumsDigitsListNumbers.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\obj\Debug\net6.0\SumsDigitsListNumbers.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\obj\Debug\net6.0\refint\SumsDigitsListNumbers.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\obj\Debug\net6.0\SumsDigitsListNumbers.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\obj\Debug\net6.0\SumsDigitsListNumbers.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\SumsDigitsListNumbers\obj\Debug\net6.0\ref\SumsDigitsListNumbers.dll
