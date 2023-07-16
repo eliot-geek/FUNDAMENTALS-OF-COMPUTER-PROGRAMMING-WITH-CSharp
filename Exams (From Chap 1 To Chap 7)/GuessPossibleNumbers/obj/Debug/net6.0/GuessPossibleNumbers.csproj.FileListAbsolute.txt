@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\bin\Debug\net6.0\GuessPossibleNumbers.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\bin\Debug\net6.0\GuessPossibleNumbers.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\bin\Debug\net6.0\GuessPossibleNumbers.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\bin\Debug\net6.0\GuessPossibleNumbers.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\bin\Debug\net6.0\GuessPossibleNumbers.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\obj\Debug\net6.0\GuessPossibleNumbers.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\obj\Debug\net6.0\GuessPossibleNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\obj\Debug\net6.0\GuessPossibleNumbers.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\obj\Debug\net6.0\GuessPossibleNumbers.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\obj\Debug\net6.0\GuessPossibleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\obj\Debug\net6.0\GuessPossibleNumbers.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\obj\Debug\net6.0\refint\GuessPossibleNumbers.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\obj\Debug\net6.0\GuessPossibleNumbers.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\obj\Debug\net6.0\GuessPossibleNumbers.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\GuessPossibleNumbers\obj\Debug\net6.0\ref\GuessPossibleNumbers.dll
