@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\bin\Debug\net6.0\BinarMatrixExtraction.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\bin\Debug\net6.0\BinarMatrixExtraction.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\bin\Debug\net6.0\BinarMatrixExtraction.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\bin\Debug\net6.0\BinarMatrixExtraction.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\bin\Debug\net6.0\BinarMatrixExtraction.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\obj\Debug\net6.0\BinarMatrixExtraction.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\obj\Debug\net6.0\BinarMatrixExtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\obj\Debug\net6.0\BinarMatrixExtraction.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\obj\Debug\net6.0\BinarMatrixExtraction.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\obj\Debug\net6.0\BinarMatrixExtraction.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\obj\Debug\net6.0\BinarMatrixExtraction.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\obj\Debug\net6.0\refint\BinarMatrixExtraction.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\obj\Debug\net6.0\BinarMatrixExtraction.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\obj\Debug\net6.0\BinarMatrixExtraction.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\BinarMatrixExtraction\obj\Debug\net6.0\ref\BinarMatrixExtraction.dll
