@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\bin\Debug\net6.0\Ex05BinaryToDecimal.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\bin\Debug\net6.0\Ex05BinaryToDecimal.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\bin\Debug\net6.0\Ex05BinaryToDecimal.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\bin\Debug\net6.0\Ex05BinaryToDecimal.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\bin\Debug\net6.0\Ex05BinaryToDecimal.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\obj\Debug\net6.0\Ex05BinaryToDecimal.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\obj\Debug\net6.0\Ex05BinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\obj\Debug\net6.0\Ex05BinaryToDecimal.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\obj\Debug\net6.0\Ex05BinaryToDecimal.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\obj\Debug\net6.0\Ex05BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\obj\Debug\net6.0\Ex05BinaryToDecimal.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\obj\Debug\net6.0\refint\Ex05BinaryToDecimal.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\obj\Debug\net6.0\Ex05BinaryToDecimal.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\obj\Debug\net6.0\Ex05BinaryToDecimal.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05BinaryToDecimal\obj\Debug\net6.0\ref\Ex05BinaryToDecimal.dll

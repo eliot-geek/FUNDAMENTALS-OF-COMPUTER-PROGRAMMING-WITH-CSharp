@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\bin\Debug\net6.0\Ex06DecimalToHexadec.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\bin\Debug\net6.0\Ex06DecimalToHexadec.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\bin\Debug\net6.0\Ex06DecimalToHexadec.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\bin\Debug\net6.0\Ex06DecimalToHexadec.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\bin\Debug\net6.0\Ex06DecimalToHexadec.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\obj\Debug\net6.0\Ex06DecimalToHexadec.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\obj\Debug\net6.0\Ex06DecimalToHexadec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\obj\Debug\net6.0\Ex06DecimalToHexadec.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\obj\Debug\net6.0\Ex06DecimalToHexadec.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\obj\Debug\net6.0\Ex06DecimalToHexadec.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\obj\Debug\net6.0\Ex06DecimalToHexadec.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\obj\Debug\net6.0\refint\Ex06DecimalToHexadec.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\obj\Debug\net6.0\Ex06DecimalToHexadec.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\obj\Debug\net6.0\Ex06DecimalToHexadec.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06DecimalToHexadec\obj\Debug\net6.0\ref\Ex06DecimalToHexadec.dll
