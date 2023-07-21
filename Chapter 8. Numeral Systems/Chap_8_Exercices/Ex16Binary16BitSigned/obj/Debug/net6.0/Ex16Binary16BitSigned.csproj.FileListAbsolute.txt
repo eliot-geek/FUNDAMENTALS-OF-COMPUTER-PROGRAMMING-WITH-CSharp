@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\bin\Debug\net6.0\Ex16Binary16BitSigned.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\bin\Debug\net6.0\Ex16Binary16BitSigned.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\bin\Debug\net6.0\Ex16Binary16BitSigned.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\bin\Debug\net6.0\Ex16Binary16BitSigned.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\bin\Debug\net6.0\Ex16Binary16BitSigned.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\obj\Debug\net6.0\Ex16Binary16BitSigned.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\obj\Debug\net6.0\Ex16Binary16BitSigned.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\obj\Debug\net6.0\Ex16Binary16BitSigned.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\obj\Debug\net6.0\Ex16Binary16BitSigned.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\obj\Debug\net6.0\Ex16Binary16BitSigned.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\obj\Debug\net6.0\Ex16Binary16BitSigned.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\obj\Debug\net6.0\refint\Ex16Binary16BitSigned.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\obj\Debug\net6.0\Ex16Binary16BitSigned.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\obj\Debug\net6.0\Ex16Binary16BitSigned.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex16Binary16BitSigned\obj\Debug\net6.0\ref\Ex16Binary16BitSigned.dll
