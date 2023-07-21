@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\bin\Debug\net6.0\Ex09BinaryToHexadec.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\bin\Debug\net6.0\Ex09BinaryToHexadec.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\bin\Debug\net6.0\Ex09BinaryToHexadec.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\bin\Debug\net6.0\Ex09BinaryToHexadec.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\bin\Debug\net6.0\Ex09BinaryToHexadec.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\obj\Debug\net6.0\Ex09BinaryToHexadec.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\obj\Debug\net6.0\Ex09BinaryToHexadec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\obj\Debug\net6.0\Ex09BinaryToHexadec.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\obj\Debug\net6.0\Ex09BinaryToHexadec.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\obj\Debug\net6.0\Ex09BinaryToHexadec.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\obj\Debug\net6.0\Ex09BinaryToHexadec.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\obj\Debug\net6.0\refint\Ex09BinaryToHexadec.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\obj\Debug\net6.0\Ex09BinaryToHexadec.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\obj\Debug\net6.0\Ex09BinaryToHexadec.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex09BinaryToHexadec\obj\Debug\net6.0\ref\Ex09BinaryToHexadec.dll
