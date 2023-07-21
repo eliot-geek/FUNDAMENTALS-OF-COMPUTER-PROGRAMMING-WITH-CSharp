@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\bin\Debug\net6.0\Ex14FloatDoubleDecim.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\bin\Debug\net6.0\Ex14FloatDoubleDecim.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\bin\Debug\net6.0\Ex14FloatDoubleDecim.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\bin\Debug\net6.0\Ex14FloatDoubleDecim.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\bin\Debug\net6.0\Ex14FloatDoubleDecim.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\obj\Debug\net6.0\Ex14FloatDoubleDecim.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\obj\Debug\net6.0\Ex14FloatDoubleDecim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\obj\Debug\net6.0\Ex14FloatDoubleDecim.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\obj\Debug\net6.0\Ex14FloatDoubleDecim.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\obj\Debug\net6.0\Ex14FloatDoubleDecim.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\obj\Debug\net6.0\Ex14FloatDoubleDecim.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\obj\Debug\net6.0\refint\Ex14FloatDoubleDecim.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\obj\Debug\net6.0\Ex14FloatDoubleDecim.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\obj\Debug\net6.0\Ex14FloatDoubleDecim.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex14FloatDoubleDecim\obj\Debug\net6.0\ref\Ex14FloatDoubleDecim.dll

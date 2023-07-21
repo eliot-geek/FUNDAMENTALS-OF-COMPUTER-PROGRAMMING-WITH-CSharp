@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\bin\Debug\net6.0\Ex15IEEE754FloatPoint.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\bin\Debug\net6.0\Ex15IEEE754FloatPoint.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\bin\Debug\net6.0\Ex15IEEE754FloatPoint.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\bin\Debug\net6.0\Ex15IEEE754FloatPoint.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\bin\Debug\net6.0\Ex15IEEE754FloatPoint.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\obj\Debug\net6.0\Ex15IEEE754FloatPoint.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\obj\Debug\net6.0\Ex15IEEE754FloatPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\obj\Debug\net6.0\Ex15IEEE754FloatPoint.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\obj\Debug\net6.0\Ex15IEEE754FloatPoint.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\obj\Debug\net6.0\Ex15IEEE754FloatPoint.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\obj\Debug\net6.0\Ex15IEEE754FloatPoint.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\obj\Debug\net6.0\refint\Ex15IEEE754FloatPoint.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\obj\Debug\net6.0\Ex15IEEE754FloatPoint.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\obj\Debug\net6.0\Ex15IEEE754FloatPoint.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex15IEEE754FloatPoint\obj\Debug\net6.0\ref\Ex15IEEE754FloatPoint.dll
