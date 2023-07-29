@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\bin\Debug\net6.0\Less08Sorting.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\bin\Debug\net6.0\Less08Sorting.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\bin\Debug\net6.0\Less08Sorting.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\bin\Debug\net6.0\Less08Sorting.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\bin\Debug\net6.0\Less08Sorting.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\obj\Debug\net6.0\Less08Sorting.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\obj\Debug\net6.0\Less08Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\obj\Debug\net6.0\Less08Sorting.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\obj\Debug\net6.0\Less08Sorting.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\obj\Debug\net6.0\Less08Sorting.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\obj\Debug\net6.0\Less08Sorting.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\obj\Debug\net6.0\refint\Less08Sorting.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\obj\Debug\net6.0\Less08Sorting.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\obj\Debug\net6.0\Less08Sorting.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less08Sorting\obj\Debug\net6.0\ref\Less08Sorting.dll

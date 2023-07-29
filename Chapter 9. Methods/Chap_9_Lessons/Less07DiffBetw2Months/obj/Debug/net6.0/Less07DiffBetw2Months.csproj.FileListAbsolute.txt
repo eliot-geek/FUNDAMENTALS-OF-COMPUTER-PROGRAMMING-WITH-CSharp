@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\bin\Debug\net6.0\Less07DiffBetw2Months.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\bin\Debug\net6.0\Less07DiffBetw2Months.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\bin\Debug\net6.0\Less07DiffBetw2Months.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\bin\Debug\net6.0\Less07DiffBetw2Months.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\bin\Debug\net6.0\Less07DiffBetw2Months.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\obj\Debug\net6.0\Less07DiffBetw2Months.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\obj\Debug\net6.0\Less07DiffBetw2Months.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\obj\Debug\net6.0\Less07DiffBetw2Months.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\obj\Debug\net6.0\Less07DiffBetw2Months.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\obj\Debug\net6.0\Less07DiffBetw2Months.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\obj\Debug\net6.0\Less07DiffBetw2Months.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\obj\Debug\net6.0\refint\Less07DiffBetw2Months.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\obj\Debug\net6.0\Less07DiffBetw2Months.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\obj\Debug\net6.0\Less07DiffBetw2Months.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Less07DiffBetw2Months\obj\Debug\net6.0\ref\Less07DiffBetw2Months.dll
