@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\bin\Debug\net6.0\Ex03LastDigitInWords.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\bin\Debug\net6.0\Ex03LastDigitInWords.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\bin\Debug\net6.0\Ex03LastDigitInWords.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\bin\Debug\net6.0\Ex03LastDigitInWords.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\bin\Debug\net6.0\Ex03LastDigitInWords.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\obj\Debug\net6.0\Ex03LastDigitInWords.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\obj\Debug\net6.0\Ex03LastDigitInWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\obj\Debug\net6.0\Ex03LastDigitInWords.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\obj\Debug\net6.0\Ex03LastDigitInWords.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\obj\Debug\net6.0\Ex03LastDigitInWords.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\obj\Debug\net6.0\Ex03LastDigitInWords.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\obj\Debug\net6.0\refint\Ex03LastDigitInWords.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\obj\Debug\net6.0\Ex03LastDigitInWords.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\obj\Debug\net6.0\Ex03LastDigitInWords.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex03LastDigitInWords\obj\Debug\net6.0\ref\Ex03LastDigitInWords.dll
