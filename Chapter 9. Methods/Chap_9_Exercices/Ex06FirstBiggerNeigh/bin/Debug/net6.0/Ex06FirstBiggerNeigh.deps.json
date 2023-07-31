@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex06FirstBiggerNeigh/1.0.0": {
+        "runtime": {
+          "Ex06FirstBiggerNeigh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex06FirstBiggerNeigh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

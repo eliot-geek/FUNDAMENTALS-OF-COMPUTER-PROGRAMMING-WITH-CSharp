@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\bin\Debug\net6.0\Ex04FoundNumbInArray.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\bin\Debug\net6.0\Ex04FoundNumbInArray.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\bin\Debug\net6.0\Ex04FoundNumbInArray.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\bin\Debug\net6.0\Ex04FoundNumbInArray.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\bin\Debug\net6.0\Ex04FoundNumbInArray.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\obj\Debug\net6.0\Ex04FoundNumbInArray.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\obj\Debug\net6.0\Ex04FoundNumbInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\obj\Debug\net6.0\Ex04FoundNumbInArray.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\obj\Debug\net6.0\Ex04FoundNumbInArray.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\obj\Debug\net6.0\Ex04FoundNumbInArray.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\obj\Debug\net6.0\Ex04FoundNumbInArray.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\obj\Debug\net6.0\refint\Ex04FoundNumbInArray.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\obj\Debug\net6.0\Ex04FoundNumbInArray.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\obj\Debug\net6.0\Ex04FoundNumbInArray.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex04FoundNumbInArray\obj\Debug\net6.0\ref\Ex04FoundNumbInArray.dll

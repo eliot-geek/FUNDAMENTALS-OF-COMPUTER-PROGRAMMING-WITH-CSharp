@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\bin\Debug\net6.0\Ex06FirstBiggerNeigh.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\bin\Debug\net6.0\Ex06FirstBiggerNeigh.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\bin\Debug\net6.0\Ex06FirstBiggerNeigh.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\bin\Debug\net6.0\Ex06FirstBiggerNeigh.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\bin\Debug\net6.0\Ex06FirstBiggerNeigh.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\obj\Debug\net6.0\Ex06FirstBiggerNeigh.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\obj\Debug\net6.0\Ex06FirstBiggerNeigh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\obj\Debug\net6.0\Ex06FirstBiggerNeigh.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\obj\Debug\net6.0\Ex06FirstBiggerNeigh.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\obj\Debug\net6.0\Ex06FirstBiggerNeigh.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\obj\Debug\net6.0\Ex06FirstBiggerNeigh.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\obj\Debug\net6.0\refint\Ex06FirstBiggerNeigh.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\obj\Debug\net6.0\Ex06FirstBiggerNeigh.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\obj\Debug\net6.0\Ex06FirstBiggerNeigh.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex06FirstBiggerNeigh\obj\Debug\net6.0\ref\Ex06FirstBiggerNeigh.dll

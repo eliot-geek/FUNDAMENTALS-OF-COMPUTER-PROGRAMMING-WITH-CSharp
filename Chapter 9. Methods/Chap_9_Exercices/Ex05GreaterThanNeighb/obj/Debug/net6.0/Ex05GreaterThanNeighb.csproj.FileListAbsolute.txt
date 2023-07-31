@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\bin\Debug\net6.0\Ex05GreaterThanNeighb.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\bin\Debug\net6.0\Ex05GreaterThanNeighb.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\bin\Debug\net6.0\Ex05GreaterThanNeighb.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\bin\Debug\net6.0\Ex05GreaterThanNeighb.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\bin\Debug\net6.0\Ex05GreaterThanNeighb.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\obj\Debug\net6.0\Ex05GreaterThanNeighb.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\obj\Debug\net6.0\Ex05GreaterThanNeighb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\obj\Debug\net6.0\Ex05GreaterThanNeighb.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\obj\Debug\net6.0\Ex05GreaterThanNeighb.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\obj\Debug\net6.0\Ex05GreaterThanNeighb.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\obj\Debug\net6.0\Ex05GreaterThanNeighb.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\obj\Debug\net6.0\refint\Ex05GreaterThanNeighb.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\obj\Debug\net6.0\Ex05GreaterThanNeighb.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\obj\Debug\net6.0\Ex05GreaterThanNeighb.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex05GreaterThanNeighb\obj\Debug\net6.0\ref\Ex05GreaterThanNeighb.dll
