@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\bin\Debug\net6.0\Ex07NumbReverseDigits.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\bin\Debug\net6.0\Ex07NumbReverseDigits.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\bin\Debug\net6.0\Ex07NumbReverseDigits.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\bin\Debug\net6.0\Ex07NumbReverseDigits.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\bin\Debug\net6.0\Ex07NumbReverseDigits.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\obj\Debug\net6.0\Ex07NumbReverseDigits.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\obj\Debug\net6.0\Ex07NumbReverseDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\obj\Debug\net6.0\Ex07NumbReverseDigits.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\obj\Debug\net6.0\Ex07NumbReverseDigits.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\obj\Debug\net6.0\Ex07NumbReverseDigits.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\obj\Debug\net6.0\Ex07NumbReverseDigits.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\obj\Debug\net6.0\refint\Ex07NumbReverseDigits.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\obj\Debug\net6.0\Ex07NumbReverseDigits.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\obj\Debug\net6.0\Ex07NumbReverseDigits.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex07NumbReverseDigits\obj\Debug\net6.0\ref\Ex07NumbReverseDigits.dll

@@ -1,0 +1,15 @@
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\bin\Debug\net6.0\Ex08SumOfVeryLargeNum.exe
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\bin\Debug\net6.0\Ex08SumOfVeryLargeNum.deps.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\bin\Debug\net6.0\Ex08SumOfVeryLargeNum.runtimeconfig.json
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\bin\Debug\net6.0\Ex08SumOfVeryLargeNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\bin\Debug\net6.0\Ex08SumOfVeryLargeNum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\obj\Debug\net6.0\Ex08SumOfVeryLargeNum.csproj.AssemblyReference.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\obj\Debug\net6.0\Ex08SumOfVeryLargeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\obj\Debug\net6.0\Ex08SumOfVeryLargeNum.AssemblyInfoInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\obj\Debug\net6.0\Ex08SumOfVeryLargeNum.AssemblyInfo.cs
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\obj\Debug\net6.0\Ex08SumOfVeryLargeNum.csproj.CoreCompileInputs.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\obj\Debug\net6.0\Ex08SumOfVeryLargeNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\obj\Debug\net6.0\refint\Ex08SumOfVeryLargeNum.dll
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\obj\Debug\net6.0\Ex08SumOfVeryLargeNum.pdb
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\obj\Debug\net6.0\Ex08SumOfVeryLargeNum.genruntimeconfig.cache
+C:\Users\leosa\Downloads\Загрузки\CSHARP\CSharp Fondamentals by Navok Bulgarian\FondamentalsOfComputerProgrammingCSharp\Ex08SumOfVeryLargeNum\obj\Debug\net6.0\ref\Ex08SumOfVeryLargeNum.dll
